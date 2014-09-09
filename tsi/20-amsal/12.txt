@@ -29,8 +29,8 @@
 \p
 \b
 \q1
-\v 6 Perkataan orang jahat yang mengintai darah ingin menjebak,
-\q2 tetapi perkataan orang benar akan membebaskan mereka.
+\v 6 Perkataan orang jahat ingin menjebak seolah mengintai darah 
+\q2 tetapi perkataan orang benar akan membebaskan mereka dari incaran.
 \p
 \b
 \q1
@@ -49,8 +49,8 @@
 \p
 \b
 \q1
-\v 10 [Hewan peliharaan orang benar diurus dengan baik//Orang benar memperhatikan hewan peliharaannya], 
-\q2 [tetapi sekalipun orang jahat mau berusaha baik dan tulus, dia tetap kejam//tetapi belas kasihan orang jahat didasari maksud keji].
+\v 10 Orang benar memperhatikan hewan peliharaannya, 
+\q2 tetapi belas kasihan orang jahat didasari maksud keji.
 \p
 \b
 \q1
@@ -69,8 +69,8 @@
 \p
 \b
 \q1
-\v 14
-\q2
+\v 14 Buah perkataan orang benar akan menghasilkan hal yang baik   
+\q2 dan dia akan menikmati hasil kerja kerasnya sendiri.
 \p
 \b
 \q1
