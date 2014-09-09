@@ -49,23 +49,23 @@
 \p
 \b
 \q1
-\v 10 
-\q2
+\v 10 [Hewan peliharaan orang benar diurus dengan baik//Orang benar memperhatikan hewan peliharaannya], 
+\q2 [tetapi sekalipun orang jahat mau berusaha baik dan tulus, dia tetap kejam//tetapi belas kasihan orang jahat didasari maksud keji].
 \p
 \b
 \q1
-\v 11
-\q2
+\v 11 Siapa yang membanting tulang tidak akan kelaparan, 
+\q2 tetapi siapa yang mengejar lamunan tidak berhikmat.
 \p
 \b
 \q1
-\v 12
-\q2
+\v 12 Orang jahat mengingini hasil jarahan orang lain,
+\q2 tetapi orang benar akan tetap bertahan dan berkembang.
 \p
 \b
 \q1
-\v 13
-\q2
+\v 13 Bagi orang jahat,"Mulutmu adalah harimaumu", 
+\q2 tetapi orang benar yang berhikmat terhindar dari hal ini.
 \p
 \b
 \q1
