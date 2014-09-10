@@ -4,7 +4,7 @@
 \p
 \b
 \q1
-\v 1 Orang yang sangat gemar menuntut ilmu dapat menerima teguran,
+\v 1 Orang yang gemar menuntut ilmu dapat menerima teguran,
 \q2 tetapi orang yang tidak mau ditegur akan tetap bodoh.
 \p 
 \b
@@ -45,7 +45,7 @@
 \b
 \q1
 \v 9 Lebih baik menjadi orang yang diremehkan orang lain tetapi memiliki pekerja
-\q2  daripada orang yang berlagak kaya, tetapi tidak mampu untuk membeli makanan.
+\q2  daripada orang yang berlagak kaya, tetapi tidak mampu untuk membeli makan.
 \p
 \b
 \q1
@@ -79,17 +79,17 @@
 \p
 \b
 \q1
-\v 16
-\q2
+\v 16 Orang bodoh segera menyatakan kekesalan dan sakit hati,
+\q2 tetapi orang bijak mengabaikan penghinaan.
 \p
 \b
 \q1
-\v 17
-\q2
+\v 17 Siapa yang mengatakan dan menegakkan hal yang benar adalah adil,
+\q2 tetapi seorang saksi dusta menyatakan tipu daya.
 \p
 \b
 \q1
-\v 18
+\v 18 
 \q2
 \p
 \b
