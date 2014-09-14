@@ -135,12 +135,12 @@
 \p
 \b
 \q1
-\v 27 
-\q2
+\v 27 Orang malas tidak dapat menangkap hasil buruannya,
+\q2 tetapi orang rajin memperoleh harta kekayaan.
 \p
 \b
 \q1
-\v 28
-\q2
+\v 28 Mengikuti jalan orang benar menuju pada kehidupan,
+\q2  tetapi menjejaki jalan selain itu menuju pada maut
 </USFM>
 ~~DISCUSSIONS:on~~
