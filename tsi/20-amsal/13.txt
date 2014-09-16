@@ -34,12 +34,12 @@
 \b
 \q1
 \v 7 Ada orang yang berpura-pura kaya tetapi sebenarnya tidak memiliki apa-apa;
-\q2 orang lain yang berpura-pura miskin tetapi memiliki kekayaan.
+\q2 orang lain yang berpura-pura miskin tetapi memiliki harta kekayaan yang melimpah.
 \p
 \b
 \q1
-\v 8 Untuk menebus orag kaya, maka adalah harta kekayaannya,
-\q2 tetapi orang miskin tidak akan diancam.
+\v 8 Untuk menebus orang kaya, adalah harta kekayaannya,
+\q2 tetapi orang miskin tidak akan mendapat ancaman.
 \p
 \b
 \q1
@@ -53,7 +53,7 @@
 \p
 \b
 \q1
-\v 11 Kalau kamu mendapat banyak uang dengan cara yang cepat, uang itu juga akan cepat hilang,
+\v 11 Orang yang mendapatkan uang dengan cara yang cepat, juga akan cepat menghabiskannya,
 \q2 tetapi kekayaan yang dari hasil kerja keras akan bertahan lama.
 \p
 \b
@@ -68,59 +68,59 @@
 \p
 \b
 \q1
-\v 14 Apa yang diajarkan oang bijak bagaikan sumber kehidupan,
+\v 14 Apa yang diajarkan orang bijak bagaikan sumber kehidupan
 \q2 yang menjauhkan orang dari perangkap kematian.
 \p
 \b
 \q1
-\v 15 
-\q2 
+\v 15 Akal budi yang baik membawa kemurahan,
+\q2 tetapi jalan pengkhianat membawa celaka.
 \p
 \b
 \q1
-\v 16
-\q2 
+\v 16 Orang cerdas bertindak dengan pengetahuan,
+\q2 tetapi orang bodoh menunjukkan kebodohannya.
 \p
 \b
 \q1
-\v 17
-\q2 
+\v 17 Utusan yang tidak dapat diharapkan jatuh ke dalam masalah,
+\q2 tetapi duta yang setia membawa pemulihan.
 \p
 \b
 \q1
-\v 18
-\q2 
+\v 18 Siapa yang mengabaikan didikan akan menjadi miskin dan malu,
+\q2 tetapi siapa yang mengindahkan tegurasn akan dihormati.
 \p
 \b
 \q1
-\v 19
-\q2 
+\v 19 Mencapai apa yang diingini hati sangat menyenangkan,
+\q2 tetapi bagi orang yang bodoh, menjauhkan diri dari sesuatu yang keji adalah kejahatan.
 \p
 \b
 \q1
-\v 20
-\q2 
+\v 20 Siapa yang bergaul dengan orang bijak akan menjadi bijak, 
+\q2 tetapi siapa yang berteman dengan orang bodoh akan sengsara.
 \p
 \b
 \q1
-\v 21
-\q2 
+\v 21 Malepetaka selalu mengikuti orang berdosa,
+\q2 tetapi balasan orang benar adalah rasa bahagia.
 \p
 \b
 \q1
-\v 22
-\q2 
+\v 22 Orang baik meninggalkan warisan bagi anak cucunya,
+\q2 tetapi kekayaan orang berdosa disimpan untuk orang benar
 \p
 \b
 \q1
 \v 23 Ladang dan hewan orang miskin bisa menghasilkan cukup banyak makanan,
-\q2 tetapi bisa terjadi orang-orang yang tidak jujur rampas semuanya.
+\q2 tetapi bisa saja orang-orang yang tidak jujur merampas semuanya.
 \q2 
 \p
 \b
 \q1
-\v 24
-\q2 
+\v 24 Siapa yang tidak merotan anaknya sama saja membenci anaknya,
+\q2  barangsiapa yang mengasihi anaknya tidak ada rasa lelah dalam mendidiknya.
 \p
 \b
 \q1
