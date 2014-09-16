@@ -4,54 +4,52 @@
 \p
 \b
 \q1
-\v 1
-\q2 
+\v 1 Anak yang bijak menerima pengajaran ayahnya,
+\q2 tetapi seorang pencemooh tidak mendengarkan teguran.
 \p
 \b
 \q1
-\v 2
-\q2 
+\v 2 Dari buah mulutnya seseorang menikmati makanan yang baik,
+\q2 tetapi keinginan terdalam orang yang murtad adalah kekerasan. 
 \p
 \b
 \q1
-\v 3
-\q2 
+\v 3 Siapa yang menjaga perkataannya, menjaga nyawanya;
+\q2  siapa yang mulut besar menuju kebinasaan.
 \p
 \b
 \q1
-\v 4
-\q2 
+\v 4 Orang malas banyak maunya, namun tidak mendapatkan apa-apa,
+\q2 tetapi orang rajin mendapatkan semua keinginannya.                                                                                                                                                                                                                                                                                                                                                                                            
+\b
+\q1
+\v 5 Orang benar membenci segala sesuatu yang tidak benar,
+\q2 tetapi kelakukan orang keji membuat malu dirinya sendiri.
 \p
 \b
 \q1
-\v 5
-\q2 
+\v 6 Kebenaran melindungi orang yang hidupnya tanpa cela,
+\q2 tetapi kejahatan meruntuhkan orang berdosa.
 \p
 \b
 \q1
-\v 6
-\q2 
+\v 7 Ada orang yang berpura-pura kaya tetapi sebenarnya tidak memiliki apa-apa;
+\q2 orang lain yang berpura-pura miskin tetapi memiliki kekayaan.
 \p
 \b
 \q1
-\v 7
-\q2 
+\v 8 Untuk menebus orag kaya, maka adalah harta kekayaannya,
+\q2 tetapi orang miskin tidak akan diancam.
 \p
 \b
 \q1
-\v 8 Kalau orang kaya disandra, dia bisa membayar supaya dia dibebaskan,
-\q2 tetapi orang miskin tidak akan disandra.
-\q2 
+\v 9 Cahaya orang benar bersinar dengan terang,
+\q2 tetapi pelita orang jahat akan padam.
 \p
 \b
 \q1
-\v 9 
-\q2 
-\p
-\b
-\q1
-\v 10 
-\q2 
+\v 10 Keangkuhan hanya memicu pertengkaran; 
+\q2  orang yang mendengarkan nasihat mendapatkan hikmat.
 \p
 \b
 \q1
@@ -60,22 +58,22 @@
 \p
 \b
 \q1
-\v 12
-\q2 
+\v 12 Harapan yang tertunda membuat hati terasa sakit,
+\q2 tetapi keinginan yang tercapai bagaikan pohon kehidupan.
 \p
 \b
 \q1
-\v 13
-\q2 
+\v 13 Siapa yang tidak menerima pengajaran akan menerima akibatnya,
+\q2 tetapi siapa yang taat dan menjunjung tinggi pengajaran akan menerima upahnya.
 \p
 \b
 \q1
-\v 14
-\q2 
+\v 14 Apa yang diajarkan oang bijak bagaikan sumber kehidupan,
+\q2 yang menjauhkan orang dari perangkap kematian.
 \p
 \b
 \q1
-\v 15
+\v 15 
 \q2 
 \p
 \b
