@@ -3,8 +3,8 @@
 \p
 \b
 \q1
-\v 1 
-\q2
+\v 1 Istri yang bijaksana membangun rumah tangganya, 
+\q2 tetapi dengan kelakuannya, istri yang bodoh menghancurkan keluarganya.
 \p
 \b
 \q1
