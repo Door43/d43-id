@@ -126,6 +126,6 @@
 \b
 \q1
 \v 25 Orang yang baik biasa makan sampai kenyang,
-\q2 tetapi orang jahat sering mengalami lapar.
+\q2 tetapi orang jahat sering mengalami kelaparan.
 </USFM>
 ~~DISCUSSIONS:on~~
