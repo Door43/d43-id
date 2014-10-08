@@ -1,4 +1,4 @@
-
+~~NOCACHE~~
 
 ----
 
@@ -23,6 +23,10 @@
     * [[:en:pet|PET]]
  
 
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-id|d43-id repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
 
 **Recent Changes**
 {{changes>ns = id}}
