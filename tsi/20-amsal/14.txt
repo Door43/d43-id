@@ -1,1 +1,179 @@
-<USFM> %%\%%c 14 %%\%%p %%\%%b %%\%%q1 %%\%%v 1 Setiap istri yang bijaksana membangun rumah tangganya, %%\%%q2 tetapi istri yang bodoh menghancurkan keluarganya dengan perbuatannya. %%\%%p %%\%%b %%\%%q1 %%\%%v 2 Dengan hidup benar, kamu menunjukkan bahwa kamu menghormati Tuhan, %%\%%q2 tetapi dengan hidup sesat, kamu menunjukkan bahwa kamu tidak takut akan Dia. %%\%%p %%\%%b %%\%%q1 %%\%%v 3 Akibat dari perkataan orang bodoh adalah dihajar dengan rotan, %%\%%q2 tetapi orang bijak berpikir sebelum berbicara supaya tidak membuat kesalahan. %%\%%p %%\%%b %%\%%q1 %%\%%v 4 Kandang sapi yang kosong tidak perlu dibersihkan dan juga tidak menguntungkan. %%\%%q2 Dengan menggunakan tenaga sapi yang kuat, hasil panen akan melimpah dan menguntungkan. %%\%%p %%\%%b %%\%%q1 %%\%%v 5 Seorang saksi yang jujur tidak akan menipu, %%\%%q2 tetapi saksi dusta akan mengatakan kebohongan. %%\%%p %%\%%b %%\%%q1 %%\%%v 6 Orang yang gemar mengejek dan menghina tidak akan menemukan hikmat sekalipun dia mencarinya, %%\%%q2 tetapi orang yang berbudi dengan mudah menemukan pengetahuan. %%\%%p %%\%%b %%\%%q1 %%\%%v 7 Jangan bergaul atau mendekati orang bodoh, %%\%%q2 karena dari mulutnya, kamu tidak akan mendapatkan pengetahuan. %%\%%p %%\%%b %%\%%q1 %%\%%v 8 Orang yang cerdas berhikmat dalam mempertimbangkan jalan mana yang harus dia tempuh, %%\%%q2 tetapi kebodohan orang bodoh adalah menipu dirinya sendiri. %%\%%p %%\%%b %%\%%q1 %%\%%v 9 Orang bodoh mengejek usaha utk menebus kesalahan, %%\%%q2 tetapi diantara orang tulus terdapat iktikad baik. %%\%%p %%\%%b %%\%%q1 %%\%%v 10 Hati seseorang dapat mengenali kepahitannya sendiri, %%\%%q2 tetapi perasaan suka cita, tidak dapat dibagi dengan orang lain. %%\%%p %%\%%b %%\%%q1 %%\%%v 11 Rumah tangga orang jahat akan dihancurkan, %%\%%q2 tetapi [rumah tangga orang benar akan berkembang//seisi kemah akan maju dengan pesat]. %%\%%p %%\%%b %%\%%q1 %%\%%v 12 Ada jalan yang dianggap seseorang benar, %%\%%q2 tetapi pada akhirnya menuju kematian. %%\%%p %%\%%b %%\%%q1 %%\%%v 13 Sekalipun sedang tertawa, hati dapat merasa sakit, %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 14 Orang yang tidak tetap ikut jalan benar dan tinggalkan lagi jalan itu akan terima balasan dari TUHAN sesuai dengan perbuatannya, %%\%%q2 tetapi orang baik akan terima balasan untuk kebaikan mereka. %%\%%p %%\%%b %%\%%q1 %%\%%v 15 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 16 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 17 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 18 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 19 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 20 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 21 Orang yang anggap rendah orang lain, dia berdosa, %%\%%q2 tetapi Allah memberkati orang yang membantu orang miskin. %%\%%p %%\%%b %%\%%q1 %%\%%v 22 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 23 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 24 Kekayaan menjadi seperti mahkota untuk orang yang bijaksana, %%\%%q2 tetapi usaha orang bodoh hanya hasilkan kebodohan. %%\%%p %%\%%b %%\%%q1 %%\%%v 25 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 26 Orang-orang yang takut kepada TUHAN boleh hidup tenang. TUHAN melindungi mereka. %%\%%q2 TUHAN akan menjadi tempat perlindungan kepada anak-anak mereka juga. %%\%%p %%\%%b %%\%%q1 %%\%%v 27 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 28 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 29 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 30 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 31 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 32 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 33 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 34 %%\%%q2 %%\%%p %%\%%b %%\%%q1 %%\%%v 35 %%\%%q2 </USFM> ~~DISCUSSIONS:on~~ //
+<USFM>
+\c 14
+\p
+\b
+\q1
+\v 1 Setiap istri yang bijaksana membangun rumah tangganya, 
+\q2 tetapi istri yang bodoh menghancurkan keluarganya dengan perbuatannya.
+\p
+\b
+\q1
+\v 2 Dengan hidup benar, kamu menunjukkan bahwa kamu menghormati Tuhan,
+\q2 tetapi dengan hidup sesat, kamu menunjukkan bahwa kamu tidak takut akan Dia.
+\p
+\b
+\q1
+\v 3 Akibat dari perkataan orang bodoh adalah dihajar dengan rotan,
+\q2 tetapi orang bijak berpikir sebelum berbicara supaya tidak membuat kesalahan.
+\p
+\b
+\q1
+\v 4 Kandang sapi yang kosong tidak perlu dibersihkan dan juga tidak menguntungkan.
+\q2 Dengan menggunakan tenaga sapi yang kuat, hasil panen akan melimpah dan menguntungkan.
+\p
+\b
+\q1
+\v 5 Seorang saksi yang jujur tidak akan menipu, 
+\q2 tetapi saksi dusta akan mengatakan kebohongan.
+\p
+\b
+\q1
+\v 6 Orang yang gemar mengejek dan menghina tidak akan menemukan hikmat sekalipun dia mencarinya,
+\q2 tetapi orang yang berbudi dengan mudah menemukan pengetahuan.
+\p
+\b
+\q1
+\v 7 Jangan bergaul atau mendekati orang bodoh,
+\q2 karena dari mulutnya, kamu tidak akan mendapatkan pengetahuan.
+\p
+\b
+\q1
+\v 8 Orang yang cerdas berhikmat dalam mempertimbangkan jalan mana yang harus dia tempuh, 
+\q2 tetapi kebodohan orang bodoh adalah menipu dirinya sendiri.
+\p
+\b
+\q1
+\v 9 Orang bodoh mengejek usaha utk menebus kesalahan,
+\q2 tetapi diantara orang tulus terdapat iktikad baik.
+\p
+\b
+\q1
+\v 10 Hati seseorang dapat mengenali kepahitannya sendiri,
+\q2 tetapi perasaan suka cita, tidak dapat dibagi dengan orang lain.
+\p
+\b
+\q1
+\v 11 Rumah tangga orang jahat akan dihancurkan,
+\q2 tetapi [rumah tangga orang benar akan berkembang//seisi kemah akan maju dengan pesat].
+\p
+\b
+\q1
+\v 12 Ada jalan yang dianggap seseorang benar,
+\q2 tetapi pada akhirnya menuju kematian.
+\p
+\b
+\q1
+\v 13 Sekalipun sedang tertawa, hati dapat merasa sakit,
+\q2 
+\p
+\b
+\q1
+\v 14 Orang yang tidak tetap ikut jalan benar dan tinggalkan lagi jalan itu akan terima balasan dari TUHAN sesuai dengan perbuatannya,
+\q2 tetapi orang baik akan terima balasan untuk kebaikan mereka.
+\p
+\b
+\q1
+\v 15 
+\q2
+\p
+\b
+\q1
+\v 16 
+\q2
+\p
+\b
+\q1
+\v 17 
+\q2
+\p
+\b
+\q1 
+\v 18 
+\q2
+\p
+\b
+\q1
+\v 19 
+\q2
+\p
+\b
+\q1
+\v 20 
+\q2
+\p
+\b
+\q1
+\v 21 Orang yang anggap rendah orang lain, dia berdosa,
+\q2 tetapi Allah memberkati orang yang membantu orang miskin.
+\p
+\b
+\q1
+\v 22 
+\q2
+\p
+\b
+\q1
+\v 23 
+\q2
+\p
+\b
+\q1
+\v 24 Kekayaan menjadi seperti mahkota untuk orang yang bijaksana,
+\q2 tetapi usaha orang bodoh hanya hasilkan kebodohan.
+\p
+\b
+\q1
+\v 25 
+\q2
+\p
+\b
+\q1
+\v 26 Orang-orang yang takut kepada TUHAN boleh hidup tenang. TUHAN melindungi mereka.
+\q2 TUHAN akan menjadi tempat perlindungan kepada anak-anak mereka juga.
+\p
+\b
+\q1
+\v 27 
+\q2
+\p
+\b
+\q1
+\v 28 
+\q2
+\p
+\b
+\q1
+\v 29 
+\q2
+\p
+\b
+\q1
+\v 30 
+\q2
+\p
+\b
+\q1
+\v 31 
+\q2
+\p
+\b
+\q1
+\v 32 
+\q2
+\p
+\b
+\q1
+\v 33 
+\q2
+\p
+\b
+\q1
+\v 34 
+\q2
+\p
+\b
+\q1
+\v 35 
+\q2
+</USFM>
+~~DISCUSSIONS:on~~
