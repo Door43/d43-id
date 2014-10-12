@@ -73,14 +73,14 @@
 \p
 \b
 \q1
-\v 15 
-\q2
+\v 15 Orang yang tidak berpengalaman akan percaya segala hal,
+\q2 tetapi orang yang bijak sangat berhati-hati dalam melangkah.
 \p
 \b
 \q1
-\v 16 
-\q2
-\p
+\v 16 Orang bijak sangat berhati-hati dan menjauhkan diri dari kejahatan,
+\q2 tetapi orang bodoh karena keangkuhannya bertindak cepat dan [terlalu percaya diri/yakin dengan dirinya sendiri]
+\p 
 \b
 \q1
 \v 17 
