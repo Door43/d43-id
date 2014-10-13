@@ -84,7 +84,7 @@
 \b
 \q1
 \v 17 Siapa yang cepat marah bertindak ceroboh,
-\q2 tetapi orang yang membuat rencana jahat dibenci.
+\q2 dan orang yang membuat rencana jahat dibenci.
 \p
 \b
 \q1 
