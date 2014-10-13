@@ -64,7 +64,7 @@
 \b
 \q1
 \v 13 Sekalipun sedang tertawa, hati dapat terasa sakit,
-\q2 dan rasa gembira dapat berakhir dengan kedukaan.
+\q2 dan rasa gembira dapat berakhir dengan duka.
 \p
 \b
 \q1
@@ -83,8 +83,8 @@
 \p 
 \b
 \q1
-\v 17 
-\q2
+\v 17 Siapa yang cepat marah bertindak ceroboh,
+\q2 tetapi orang yang membuat rencana jahat dibenci.
 \p
 \b
 \q1 
