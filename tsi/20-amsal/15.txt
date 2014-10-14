@@ -3,18 +3,18 @@
 \p
 \b
 \q1
-\v 1
-\q2
+\v 1n Jawaban yang lemah lembut akan meredakan amarah seseorang,
+\q2 tetapi jawaban yang {tajam/pedas/kasar] membangkitkan amarah.
 \p
 \b
 \q1
-\v 2
-\q2
+\v 2 Orang bijak mengunakan pengetahuan ketika mereka berbicara,
+\q2 tetapi perkataan orang bodoh penuh omongan kosong. 
 \p
 \b
 \q1
-\v 3
-\q2
+\v 3 TUHAN dapat memandang segala sesuatu,
+\q2 Dia memperhatikan orang baik dan orang yang jahat.
 \p
 \b
 \q1
