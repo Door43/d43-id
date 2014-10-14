@@ -69,17 +69,17 @@
 \b
 \q1
 \v 14 Orang yang tidak tetap ikut jalan benar dan tinggalkan lagi jalan itu akan terima balasan dari TUHAN sesuai dengan perbuatannya,
-\q2 tetapi orang baik akan terima balasan untuk kebaikan mereka.
+\q2 tetapi orang baik akan menerima balasan untuk kebaikan mereka.
 \p
 \b
 \q1
-\v 15 Orang yang tidak berpengalaman akan percaya segala hal,
+\v 15 Orang yang tidak berpengalaman akan percaya segala sesuatu,
 \q2 tetapi orang yang bijak sangat berhati-hati dalam melangkah.
 \p
 \b
 \q1
 \v 16 Orang bijak sangat berhati-hati dan menjauhkan diri dari kejahatan,
-\q2 tetapi orang bodoh karena keangkuhannya bertindak cepat dan [terlalu percaya diri/yakin dengan dirinya sendiri]
+\q2 tetapi orang bodoh karena keangkuhannya bertindak cepat dan [yakin dengan dirinya sendiri/merasa aman].
 \p 
 \b
 \q1
@@ -98,18 +98,18 @@
 \p
 \b
 \q1
-\v 20 Orang misikin tidak disukai, bahkan oleh orang-orang terdekatnya,
+\v 20 Orang miskin tidak disukai, bahkan oleh orang-orang terdekatnya,
 \q2 tetapi orang kaya disukai banyak orang.
 \p
 \b
 \q1
-\v 21 Siapa yang anggap rendah orang lain, berdosa,
+\v 21 Siapa yang meremehkan orang lain berdosa,
 \q2 tetapi Allah memberkati orang yang membantu orang miskin.
 \p
 \b
 \q1
 \v 22 Bagi mereka yang membuat rencana jahat akan dimusnahkan,
-\q2 tetapi orang yang membuat rencana yang baik akan dikasihi dan dipercaya.
+\q2 tetapi orang yang membuat rencana yang baik akan dikasihi dan dipercayai.
 \p
 \b
 \q1
@@ -124,7 +124,7 @@
 \b
 \q1
 \v 25 Seorang saksi yang menyatakan kebenaran menyelamatkan orang lain.
-\q2 tetapi seseorang yang mengutarakan tipu daya adalah
+\q2 tetapi seseorang yang mengutarakan tipu daya adalah penghianat. 
 \p
 \b
 \q1
@@ -134,7 +134,7 @@
 \b
 \q1
 \v 27 Takut akan TUHAN adalah sumber kehidupan,
-\q2 dan menjauhkan orang lain dari jerat maut.
+\q2 dan menjauhkan orang lain dari jerat kematian.
 \p
 \b
 \q1
