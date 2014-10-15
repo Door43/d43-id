@@ -18,8 +18,8 @@
 \p
 \b
 \q1
-\v 4 Kandang sapi yang kosong tidak perlu dibersihkan dan juga tidak menguntungkan.
-\q2 Dengan menggunakan tenaga sapi yang kuat, hasil panen akan melimpah dan menguntungkan.
+\v 4 Kalau tidak ada sapi, tempat makanannya tidak perlu dibersihkan,
+\q2 tetapi dengan menggunakan tenaga lembu yang kuat, hasil panen akan melimpah.
 \p
 \b
 \q1
@@ -49,12 +49,12 @@
 \b
 \q1
 \v 10 Hati seseorang dapat mengenali kepahitannya sendiri,
-\q2 tetapi perasaan suka cita, tidak dapat dibagi dengan orang lain.
+\q2 tetapi perasaan suka cita, tidak dapat dibagikan dengan orang lain.
 \p
 \b
 \q1
 \v 11 Rumah tangga orang jahat akan dihancurkan,
-\q2 tetapi [rumah tangga orang benar akan berkembang//seisi kemah akan maju dengan pesat].
+\q2 tetapi rumah tangga orang benar akan tumbuh kembang.
 \p
 \b
 \q1
