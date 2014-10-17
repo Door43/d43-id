@@ -1,7 +1,4 @@
-<USFM>
-
-
-%%\%%id PRO
+<USFM> %%\%%id PRO
 
 
 %%\%%c 1
