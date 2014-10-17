@@ -1,4 +1,7 @@
-<USFM> %%\%%id PRO
+<USFM>
+
+
+%%\%%id PRO
 
 
 %%\%%c 1
@@ -218,6 +221,3 @@
 
 
 </USFM>
-
-
-~~DISCUSSIONS:on~~
