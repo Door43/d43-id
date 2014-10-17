@@ -18,13 +18,13 @@
 \p
 \b
 \q1
-\v 4
-\q2
+\v 4 Perkataan lemah lembut bagaikan pohon kehidupan,
+\q2 tetapi lidah yang curang mematahkan semangat.
 \p
 \b
 \q1
-\v 5
-\q2
+\v 5 Orang bodoh tidak mengindahkan ajaran bapaknya,
+\q2 tetapi siapa yang menerima teguran adalah bijak.
 \p
 \b
 \q1
@@ -33,83 +33,83 @@
 \p
 \b
 \q1
-\v 7
-\q2
+\v 7 Perkataan orang bijak [menyebarkan/membagikan] pengetahuan,
+\q2 tetapi tidak demikian dengan orang bodoh.
 \p
 \b
 \q1
-\v 8
-\q2
+\v 8 TUHAN membenci persembahan korban orang jahat,
+\q2 tetapi doa orang benar berkenan kepada-Nya.
 \p
 \b
 \q1
-\v 9
-\q2
+\v 9 Jalan hidup orang jahat dibenci TUHAN,
+\q2 tetapi dia mengasihi mereka yang mengejar kebenaran.
 \p
 \b
 \q1
-\v 10
-\q2
+\v 10 Siapa yang meninggalkan jalan benar akan dihukum,
+\q2 dan siapa yang membenci teguran akan mati.
 \p
 \b
 \q1
-\v 11
-\q2
+\v 11 Dunia orang mati dan kebinasaan berada dihadapan TUHAN,
+\q2 apalagi hati manusia…
 \p
 \b
 \q1
-\v 12
-\q2
+\v 12 Orang yang gemar menghina tidak suka ditegur,
+\q2 mereka tidak akan meminta nasehat orang yang bijaksana.
 \p
 \b
 \q1
-\v 13
-\q2
+\v 13 Hati yang gembira membuat muka berseri-seri,
+\q2 tetapi hati yang susah mematahkan semangat.
 \p
 \b
 \q1
-\v 14
-\q2
+\v 14 Hati orang yang mempunyai pengertian mencari pengetahuan,
+\q2 tetapi orang bodoh mencari kebodohan.
 \p
 \b
 \q1
-\v 15
-\q2
+\v 15 Hari-hari orang tertindas penuh penderitaan,
+\q2 tetapi siapa yang memiliki hati yang gembira seolah-olah sedang berpesta tanpa henti.
 \p
 \b
 \q1
-\v 16 Lebih baik kamu hanya miliki sedikit saja dan takut kepada TUHAN,
+\v 16 Lebih baik memiliki harta yang sedikit dan takut akan TUHAN,
 \q2 daripada mempunyai banyak harta tetapi disertai dengan hati yang tidak tenang.
 \p
 \b
 \q1
 \v 17 Lebih baik makan sepiring sayur dalam rumah yang penuh kasih-sayang
-\q2 daripada puas dengan daging dalam rumah yang penuh dengan kebencian.
+\q2 daripada makan daging dengan sepuas-puasnya dalam rumah yang penuh dengan kebencian.
 \q2
 \p
 \b
 \q1
-\v 18
-\q2
+\v 18 Siapa yang lekas marah mendatangkan masalah,
+\q2 tetapi siapa yang dapat menahan amarahnya menghentikan tuduhan.
 \p
 \b
 \q1
-\v 19
-\q2
+\v 19 Kehidupan orang yang malas bagaikan tanaman berduri,
+\q2 tetapi kehidupan orang benar bagaikan jalan yang mulus.
 \p
 \b
 \q1
-\v 20
-\q2
+\v 20 Anak yang bijak mendatangkan sukacita bagi bapaknya,
+\q2 tetapi anak yang bodoh mempermalukan ibunya.
+\p
+\b
+\q1 
+\v 21 Siapa yang tidak memiliki akal budi suka melakukan hal yang bodoh,
+\q2 tetapi siapa yang memiliki pengertian melakukan hal yang benar.
 \p
 \b
 \q1
-\v 21
-\q2
-\p
-\b
-\q1
-\v 22
+\v 22 
 \q2
 \p
 \b
