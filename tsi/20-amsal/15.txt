@@ -4,7 +4,7 @@
 \b
 \q1
 \v 1 Jawaban yang lemah lembut akan meredakan amarah seseorang,
-\q2 tetapi jawaban yang {tajam/pedas/kasar] membangkitkan amarah.
+\q2 tetapi jawaban yang [tajam/pedas/kasar] membangkitkan amarah.
 \p
 \b
 \q1
@@ -120,7 +120,7 @@
 \b
 \q1
 \v 24 Jalan hidup orang yang berhikmat menuju ke atas, 
-\q2 agar mereka menjauhkan diri dari hal-hal yang dapat mengakibatkan [kematian/mereka bergabung dengan orang mati]
+\q2 agar mereka menjauhkan diri dari hal-hal yang dapat mengakibatkan [kematian/mereka bergabung dengan orang mati].
 \p
 \b
 \q1
@@ -155,7 +155,7 @@
 \b
 \q1
 \v 31 Kalau telingamu mendengarkan teguran kamu menuju pada kehidupan,
-\q2 dan akan hidup bersama orang yang bijak.
+\q2 dan akan hidup diantara orang yang bijak.
 \p
 \b
 \q1
@@ -164,7 +164,7 @@
 \p
 \b
 \q1
-\v 33 Takut akan TUHAN akan mengajarkan kebijaksanaan.
+\v 33 Takut akan TUHAN mengajarkan kebijaksanaan.
 \q2 Kerendahan hati diperoleh sebelum kehormatan.
 \p
 \b
