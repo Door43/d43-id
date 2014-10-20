@@ -4,7 +4,7 @@
 \b
 \q1
 \v 1 Jawaban yang lemah lembut akan meredakan amarah seseorang,
-\q2 tetapi jawaban yang [tajam/pedas/kasar] membangkitkan amarah.
+\q2 tetapi jawaban yang pedas/kasar membangkitkan amarah.
 \p
 \b
 \q1
@@ -54,7 +54,7 @@
 \b
 \q1
 \v 11 Dunia orang mati dan kebinasaan berada dihadapan TUHAN,
-\q2 apalagi hati manusia…
+\q2 apalagi hati manusia.
 \p
 \b
 \q1
