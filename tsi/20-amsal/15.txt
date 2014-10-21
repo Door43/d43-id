@@ -4,17 +4,17 @@
 \b
 \q1
 \v 1 Jawaban yang lemah lembut akan meredakan amarah seseorang,
-\q2 tetapi jawaban yang pedas/kasar membangkitkan amarah.
+\q2 tetapi jawaban yang [pedas/kasar] membangkitkan amarah.
 \p
 \b
 \q1
-\v 2 Orang bijak mengunakan pengetahuan ketika mereka berbicara,
-\q2 tetapi perkataan orang bodoh penuh omongan kosong. 
+\v 2 Lidah orang bijak menggunakan pengetahuan dengan benar ,
+\q2 tetapi perkataan orang bodoh [penuh omongan kosong/tidak berbobot/memperjelas kebodohannya. 
 \p
 \b
 \q1
 \v 3 TUHAN dapat memandang segala sesuatu,
-\q2 Dia memperhatikan orang baik dan orang yang jahat.
+\q2 Dia mengawasi orang baik dan orang yang jahat.
 \p
 \b
 \q1
@@ -54,7 +54,7 @@
 \b
 \q1
 \v 11 Dunia orang mati dan kebinasaan berada dihadapan TUHAN,
-\q2 apalagi hati manusia.
+\q2 apalagi/terlebih hati manusia.
 \p
 \b
 \q1
@@ -124,8 +124,8 @@
 \p
 \b
 \q1
-\v 25 TUHAN akan merobohkan rumah orang yang congkak,
-\q2 tetapi Dia menetapkan batas tanah seorang janda. 
+\v 25 TUHAN akan merobohkan rumah orang yang sombong,
+\q2 tetapi Dia menetapkan batas-batas tanah seorang janda. 
 \p
 \b
 \q1
@@ -154,8 +154,8 @@
 \p
 \b
 \q1
-\v 31 Kalau telingamu mendengarkan teguran kamu menuju pada kehidupan,
-\q2 dan akan hidup diantara orang yang bijak.
+\v 31 Kalau telingamu mendengarkan teguran, kamu akan menuju pada kehidupan,
+\q2 dan hidup diantara orang yang bijak.
 \p
 \b
 \q1
@@ -165,7 +165,7 @@
 \b
 \q1
 \v 33 Takut akan TUHAN mengajarkan kebijaksanaan.
-\q2 Kerendahan hati diperoleh sebelum kehormatan.
+\q2 [Kerendahan hati diperoleh sebelum kehormatan./Sebelum kamu dapat dihormati, terlebih dahulu kamu harus memperoleh kerendahan hati].
 \p
 \b
 \q1
