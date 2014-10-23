@@ -14,11 +14,11 @@
 \b
 \q1
 \v 3 TUHAN dapat memandang segala sesuatu,
-\q2 Dia mengawasi orang baik dan orang yang jahat.
+\q2 Dia mengawasi orang yang baik dan orang yang jahat.
 \p
 \b
 \q1
-\v 4 Perkataan lemah lembut bagaikan pohon kehidupan,
+\v 4 Perkataan lembut bagaikan pohon kehidupan,
 \q2 tetapi lidah yang curang mematahkan semangat.
 \p
 \b
@@ -54,12 +54,12 @@
 \b
 \q1
 \v 11 Dunia orang mati dan kebinasaan berada dihadapan TUHAN,
-\q2 apalagi/terlebih hati manusia.
+\q2 terlebih lagi hati manusia.
 \p
 \b
 \q1
 \v 12 Orang yang gemar menghina tidak suka ditegur,
-\q2 mereka tidak akan meminta nasehat orang yang bijaksana.
+\q2 mereka tidak akan meminta nasehat kepada orang yang bijaksana.
 \p
 \b
 \q1
@@ -89,7 +89,7 @@
 \p
 \b
 \q1
-\v 18 Siapa yang lekas marah mendatangkan masalah,
+\v 18 Siapa yang [lekas/cepat] marah mendatangkan masalah,
 \q2 tetapi siapa yang dapat menahan amarahnya menghentikan tuduhan.
 \p
 \b
@@ -135,7 +135,7 @@
 \b
 \q1
 \v 27 Orang yang mencari uang dengan sogokan menghancurkan keluarganya sendiri,
-\q2 tetapi orang yang sama sekali tidak terima sogokan, akan hidup lama dan bahagia.
+\q2 tetapi orang yang sama sekali tidak menerima sogokan, akan hidup lama dan bahagia.
 \p
 \b
 \q1
