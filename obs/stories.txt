@@ -1,5 +1,4 @@
-
-
+~~NOCACHE~~
     - [[:id:obs:01|Penciptaan]]
     - [[:id:obs:02|Dosa Masuk ke Dunia]]
     - [[:id:obs:03|Air Bah]]
@@ -50,4 +49,6 @@
     - [[:id:obs:48|Yesus adalah Mesias yang dijanjikan]]
     - [[:id:obs:49|Perjanjian Baru Allah]]
     - [[:id:obs:50|Yesus Kembali]]
-
+    * [[id:obs:front-matter|Front Matter]]
+    * [[id:obs:back-matter|Back Matter]]
+    * [[id:obs:app_words|Mobile App Words]]
