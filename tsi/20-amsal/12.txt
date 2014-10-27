@@ -20,7 +20,7 @@
 \b
 \q1
 \v 4 Isteri yang cakap menjaga kehormatan suaminya,
-\q2 tetapi isteri yang membuat malu menghancurkan nama baik suaminya.
+\q2 tetapi isteri yang membuat malu merendahkan [nama baik/harga diri] suaminya.
 \p
 \b
 \q1
@@ -49,57 +49,57 @@
 \p
 \b
 \q1
-\v 10 Orang benar memperhatikan hewan peliharaannya, 
-\q2 tetapi belas kasihan orang jahat didasari maksud keji.
+\v 10 Orang benar [merawat/memelihara] hewan peliharaannya, 
+\q2 tetapi dasar dari belas kasihan orang jahat adalah keji.
 \p
 \b
 \q1
 \v 11 Siapa yang membanting tulang tidak akan kelaparan, 
-\q2 tetapi siapa yang mengejar lamunan tidak berhikmat.
+\q2 tetapi siapa yang [mengejar lamunan/menghabiskan waktunya ngelamun] tidak berhikmat.
 \p
 \b
 \q1
-\v 12 Orang jahat mengingini hasil jarahan orang lain,
-\q2 tetapi orang benar akan tetap bertahan dan berkembang.
+\v 12 Orang jahat menginginkan hasil jarahan orang lain,
+\q2 tetapi orang benar akan tetap bertahan dan berkembang pesat.
 \p
 \b
 \q1
-\v 13 Orang jahat terjerat oleh perkataannya sendiri, 
-\q2 tetapi orang benar terlepas dari kesusahan.
+\v 13 Orang jahat menjerat dirinya dengan perkataannya, 
+\q2 tetapi orang benar luput dari kesusahan.
 \p
 \b
 \q1
-\v 14 Setiap orang terpuaskan oleh hal baik karena buah perkataannya,   
-\q2 dan, setiap orang akan menerima imbalan yang setimpal untuk hasil kerjanya.
+\v 14 Setiap orang akan terpuaskan dengan kebaikan karena buah perkataannya,   
+\q2 dan setiap orang akan menerima imbalan sesuai dengan hasil kerjanya.
 \p
 \b
 \q1
-\v 15 Orang bodoh menganggap jalan yang dia tempuh adalah lurus,
-\q2 tetapi hanya orang bijak yang mau mendengarkan nasehat.
+\v 15 Dari sudut pandangnya sendiri, orang bodoh menganggap jalan yang dia tempuh adalah lurus,
+\q2 tetapi hanya orang bijaksana yang mau mendengarkan nasehat.
 \p
 \b
 \q1
-\v 16 Orang bodoh segera menyatakan kekesalan dan sakit hati,
-\q2 tetapi orang bijak mengabaikan penghinaan.
+\v 16 Orang bodoh akan langsung menunjukkan jika dia tersinggung,
+\q2 tetapi orang yang bijaksana tidak akan terpengaruhi.
 \p
 \b
 \q1
-\v 17 Siapa yang dapat dipercaya menyatakan yang benar dan yang adil,
+\v 17 Siapa yang dapat dipercaya menyatakan kebenaran dan keadilan,
 \q2 tetapi seorang saksi dusta menyatakan tipu muslihat.
 \p
 \b
 \q1
 \v 18 Perkataan yang lancang bagaikan tikaman pedang,
-\q2 tetapi lidah orang bijak menyembuhkan.
+\q2 tetapi lidah orang bijaksana menyembuhkan.
 \p
 \b
 \q1
-\v 19 Bibir yang menyatakan hal yang benar akan tetap untuk selama-lamanya,
-\q2 tetapi lidah dusta hanya bertahan sekejap.
+\v 19 Bibir yang menyatakan kebenaran akan [kekal/tetap untuk selama-lamanya],
+\q2 tetapi [siapa yang berdusta tidak akan bertahan/lidah dusta hanya bertahan untuk sekejap].
 \p
 \b
 \q1
-\v 20 Hati orang yang merencanakan jahat dipenuhi tipu daya, 
+\v 20 Hati orang yang merencanakan kejahatan dikuasai tipu daya, 
 \q2 tetapi suka cita memenuhi orang yang memberikan bimbingan dan nasehat perdamaian.
 \p
 \b
@@ -125,22 +125,22 @@
 \p
 \b
 \q1
-\v 25 Kekuatiran dalam hati memberatkan seseorang,   
-\q2 tetapi perkataan baik membawa suka cita.
+\v 25 Siapa yang kuatir, hatinya akan terasa berat,   
+\q2 tetapi perkataan baik akan membuat hati bersukaria.
 \p
 \b
 \q1
-\v 26 Orang benar sangat berhati-hati dalam persahabatan,
+\v 26 Orang benar menuntun sahabatnya,
 \q2 tetapi jalan orang jahat menyesatkan.
 \p
 \b
 \q1
-\v 27 Orang malas tidak dapat menangkap hasil buruannya,
+\v 27 Orang malas [tidak dapat menangkap buruannya/gagal dalam hasil buruannya],
 \q2 tetapi orang rajin memperoleh harta kekayaan.
 \p
 \b
 \q1
-\v 28 Di jalan benar orang menuju kepada hidup,
-\q2  tetapi menjejaki jalan selain itu menuju kepada maut.
+\v 28 Di jalan benar orang menuju kehidupan,
+\q2 menjejaki jalan yang lain akan menuju kematian.
 </USFM>
 ~~DISCUSSIONS:on~~
