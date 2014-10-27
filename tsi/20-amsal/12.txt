@@ -79,7 +79,7 @@
 \p
 \b
 \q1
-\v 16 Orang bodoh akan langsung menunjukkan jika dia tersinggung,
+\v 16 [Orang bodoh akan langsung menunjukkan bila dia tersinggung//Bila tersinggung, orang bodoh akan langsung menunjukkannya],
 \q2 tetapi orang yang bijaksana tidak akan terpengaruhi.
 \p
 \b
@@ -90,7 +90,7 @@
 \b
 \q1
 \v 18 Perkataan yang lancang bagaikan tikaman pedang,
-\q2 tetapi lidah orang bijaksana menyembuhkan.
+\q2 tetapi lidah orang yang bijaksana menyembuhkan hati.
 \p
 \b
 \q1
