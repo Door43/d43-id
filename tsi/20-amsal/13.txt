@@ -50,12 +50,12 @@
 \b
 \q1
 \v 10 Keangkuhan hanya memicu pertengkaran; 
-\q2  orang yang mendengarkan nasihat mendapatkan hikmat.
+\q2  orang yang mendengarkan nasihat memperoleh hikmat.
 \p
 \b
 \q1
 \v 11 Orang yang mendapatkan uang dengan cara yang cepat, juga akan cepat menghabiskannya,
-\q2 tetapi kekayaan yang dari hasil kerja keras akan bertahan lama.
+\q2 tetapi kekayaan dari hasil kerja keras akan bertahan lama.
 \p
 \b
 \q1
@@ -74,12 +74,12 @@
 \p
 \b
 \q1
-\v 15 Akal budi yang baik membawa kemurahan,
-\q2 tetapi jalan pengkhianat membawa celaka.
+\v 15 Akal budi yang baik menghasilkan kemurahan,
+\q2 tetapi jalan pengkhianat  celaka.
 \p
 \b
 \q1
-\v 16 Orang cerdas bertindak dengan pengetahuan,
+\v 16 Orang cerdas bertindak menggunakan pengetahuannya,
 \q2 tetapi orang bodoh menunjukkan kebodohannya.
 \p
 \b
@@ -90,7 +90,7 @@
 \b
 \q1
 \v 18 Siapa yang mengabaikan didikan akan menjadi miskin dan malu,
-\q2 tetapi siapa yang mengindahkan tegurasn akan dihormati.
+\q2 tetapi siapa yang mengindahkan teguran akan dihormati.
 \p
 \b
 \q1
@@ -110,11 +110,11 @@
 \b
 \q1
 \v 22 Orang baik meninggalkan warisan bagi anak cucunya,
-\q2 tetapi kekayaan orang berdosa disimpan untuk orang benar
+\q2 tetapi kekayaan orang berdosa disimpan untuk orang benar.
 \p
 \b
 \q1
-\v 23 Ladang dan hewan orang miskin bisa menghasilkan cukup banyak makanan,
+\v 23 Ladang dan hewan orang miskin dapat menghasilkan makanan yang melimpah,
 \q2 tetapi bisa saja orang-orang yang tidak jujur merampas semuanya.
 \q2 
 \p
@@ -125,7 +125,7 @@
 \p
 \b
 \q1
-\v 25 Orang yang baik biasa makan sampai kenyang,
+\v 25 Orang benar makan sampai kenyang,
 \q2 tetapi orang jahat sering mengalami kelaparan.
 </USFM>
 ~~DISCUSSIONS:on~~
