@@ -4,17 +4,17 @@
 \b
 \q1
 \v 1 [Manusia dapat menimbang-nimbang dalam hati/Niat dalam hati dan pikiran dimiliki manusia],
-\q2 [tetapi hanya TUHANlah yang dapat mewujudkan rencana./tetapi jawaban lidah datang dari TUHAN].
+\q2 [tetapi hanya TUHANlah yang dapat mewujudkan rencana./tetapi jawabannya berasal dari TUHAN].
 \p
 \b
 \q1
-\v 2 [Segenap langkah/Seluruh jalan] seseorang adalah benar dalam pandangannya sendiri,
+\v 2 [Setiap langkah/Seluruh jalan] seseorang adalah benar dalam pandangannya sendiri,
 \q2 tetapi TUHANlah yang menimbang niat setiap orang.
 \p
 \b
 \q1
-\v 3 Andalkan TUHAN dalam segala usahamu,
-\q2 dan semua rencanamu akan berhasil.
+\v 3 Serahkanlah segala usahamu kepada TUHAN,
+\q2 maka semua rencanamu akan tercapai.
 \p
 \b
 \q1
@@ -23,24 +23,24 @@
 \p
 \b
 \q1
-\v 5 TUHAN membenci orang yang sombong.
+\v 5 TUHAN membenci setiap orang yang sombong.
 \q2 Orang yang memandang rendah orang lain tidak akan luput dari hukuman Tuhan.
 \p
 \b
 \q1
-\v 6 Melalui kesetiaan dalam kasih dan kebenaran, ketidakadilan diredakan;
+\v 6 Kalau seseorang tetap setia dalam kasih dan kebenaran, dia akan mengampuni kesalahan orang lain;
 \q2 dengan takut akan TUHAN seseorang dapat menjauhkan diri dari kejahatan.
 \p
 \b
 \q1
 \v 7 Jalan hidup orang yang menyenangkan hati TUHAN
 akan diberkati
-\q2 sehingga {orang-orang yang memusuhinya//musuh-musuhnya} akan berdamai kembali dengan dia.
+\q2 sehingga {orang-orang yang memusuhinya//musuh-musuhnya} akan berdamai dengan dia.
 \p
 \b
 \q1
-\v 8 Lebih baik kamu hidup sesuai kemauan Allah dengan pendapatan sedikit,
-\q2 daripada pendapatan banyak dengan cara yang tidak jujur.
+\v 8 Lebih baik kamu hidup dengan penghasilan sedikit tetapi sesuai dengan kehendak Allah
+\q2 daripada mendapatkan penghasilan banyak dengan cara yang tidak jujur.
 \p
 \b
 \q1
@@ -50,7 +50,7 @@ akan diberkati
 \b
 \q1
 \v 10 Perkataan seorang raja adalah keputusan ilahi,
-\q2 pernyataannya tidak dapat bertindak melawan keadilan.
+\q2 menetapkan keputusan yang dia buat harus adil, tidak bisa melawan hukum.
 \p
 \b
 \q1
@@ -69,8 +69,8 @@ akan diberkati
 \p
 \b
 \q1
-\v 14 Raja yang geram bagaikan pesan kematian,
-\q2 tetapi orang yang bijak akan menyenangkan hatinya.
+\v 14 Raja yang murka bagaikan pesan kematian,
+\q2 tetapi orang yang bijak dapat meredakan amarah raja.
 \p
 \b
 \q1
@@ -85,7 +85,7 @@ akan diberkati
 \b
 \q1
 \v 17 Orang benar akan menghindar dan menjauhkan diri dari kejahatan.
-\q2 Dengan mewawas diri, mereka akan melindungi diri.
+\q2 Dengan mewawas diri, kehidupan mereka aman.
 \p
 \b
 \q1 
@@ -99,28 +99,28 @@ akan diberkati
 \p
 \b
 \q1
-\v 20 Bagi siapa yang mendengarkan didikan akan berhasil
+\v 20 Bagi mereka yang mendengarkan didikan akan berhasil
 \q2 dan bagi siapa saja yang percaya akan TUHAN akan bahagia.
 \p
 \b
 \q1
-\v 21 Hati orang yang diketahui bijaksana memiliki hati yang dikenal.
-\q2
+\v 21 Siapa yang memiliki hati yang berhikmat disebut bijaksana, 
+\q2 dan dengan menggunakan perkataan yang menyenangkan dapat [meyakinkan./membuat orang lain menerima.]
 \p
 \b
 \q1
-\v 22 Pengertian bagaikan sumber kehidupan bagi siapa saja yang memilikinya,
-\q2 tetapi didikan bagi orang bodoh adalah kebodohan.
+\v 22 Pengertian bagaikan sumber kehidupan bagi siapa saja yang [memperolehnya//memilikinya],
+\q2 tetapi didikan bagi orang bodoh merupakan kebodohan.
 \p
 \b
 \q1
-\v 23 Hati orang bijak membuat tutur katanya penuh hikmat,
-\q2 dan perkataannya sangat meyakinkan.
+\v 23 Tutur kata yang berhikmat mencerminkan hati orang bijak,
+\q2 dan penyampaiannya sangat meyakinkan.
 \p
 \b
 \q1
 \v 24 Tutur kata yang ramah seperti sarang madu,
-\q2 rasanya manis dan dapat menyembuhkan tubuh.
+\q2 rasanya manis dan dapat menyehatkan tubuh.
 \p
 \b
 \q1
@@ -129,8 +129,8 @@ akan diberkati
 \p
 \b
 \q1
-\v 26 Kalau orang yang kerja di kebun rasa lapar, itu baik,
-\q2 karena itu akan mendorong dia untuk rajin bekerja.
+\v 26 Kalau seorang pekerja ladang merasa lapar, itu baik,
+\q2 karena hal ini akan mendorongnya untuk rajin bekerja.
 \p
 \b
 \q1
