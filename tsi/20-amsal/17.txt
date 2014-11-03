@@ -9,7 +9,7 @@
 \p
 \b
 \q1
-\v 2 Seorang hamba yang [berwawasan//bertindak bijak] akan berkuasa atas [pewaris//ahli waris//anak yang membuat malu,
+\v 2 Seorang hamba yang bijak akan bertindak atas [pewaris//ahli waris//anak] yang membuat malu,
 \q2 dan hambanya akan menerima warisan bersama-sama dengan [ahli waris yang lain//saudara-saudara anak itu].
 \p
 \b
@@ -19,18 +19,18 @@
 \p
 \b
 \q1
-\v 4 Siapa yang jahat akan mendengarkan perkataan keji.
-\q2 Pendusta memperhatikan lidah yang berniat jahat/menfitnah.
+\v 4 Siapa yang berkelakuan jahat akan mendengarkan nasehat keji.
+\q2 Pendusta mendengarkan perkataan orang yang suka menghina.
 \p
 \b
 \q1
-\v 5 Bagi siapa yang menindas orang miskin, menghina sang Pencipta; 
+\v 5 Bagi siapa yang mengolok-olok orang miskin, menghina sang Pencipta; 
 \q2 siapa yang bersuka cita atas malapetaka orang lain akan dihukum.
 \p
 \b
 \q1
 \v 6 Cucu-cucu adalah mahkota bagi kakek-nenek,
-\q2 dan orang tua membanggakan anak-anak mereka.kebanggaan bagi anak-anak adalah orang tua mereka.
+\q2 dan anak-anak membanggakan orang tua mereka.
 \p
 \b
 \q1
@@ -39,8 +39,8 @@
 \p
 \b
 \q1
-\v 8 Semua urusan orang yang membayarkan uang sogok akan lancar, karena dia menyangka bahwa dia berkuasa,
-\q2 dan dia meyakini hal ini akan selalu berhasil.
+\v 8 Orang yang menggunakan sesuatu sebagai sogokan berpikiran bahwa segala sesuatu yang dia urus akan beres
+\q2 dan dia yakin bahwa setiap kali pengurusan, dia akan berhasil karena sogokan.
 \p
 \b
 \q1
@@ -59,13 +59,13 @@
 \p
 \b
 \q1
-\v 12 Lebih baik seseorang berhadapan dengan anjing beranak yang anak anjingnya sedang direbut orang,
+\v 12 Lebih baik seseorang berhadapan dengan anjing beranak yang anak anjingnya direbut orang,
 \q2 dibandingkan berurusan dengan orang bodoh dalam kebodohannya.
 \p
 \b
 \q1
-\v 13 Bagi mereka yang membalas kebaikan dengan kejahatan,
-\q2 maka hal-hal yang jahat akan selalu melekat pada dirinya.
+\v 13 Siapa yang membalas kebaikan dengan kejahatan,
+\q2 akan selalu mendapat masalah dalam rumahnya sendiri.
 \p
 \b
 \q1
@@ -75,12 +75,12 @@
 \b
 \q1
 \v 15 Tindakan membenarkan orang yang salah dan menyalahkan orang benar,
-\q2 merupakan dua perbuatan yang keji bagi TUHAN.
+\q2 bagi TUHAN merupakan dua perbuatan yang keji .
 \p 
 \b
 \q1
 \v 16 Tidak ada gunanya memberikan uang kepada orang bodoh untuk membeli kebijaksanaan.
-\q2 karena dia tidak mempunyai kemampuan untuk bijak.
+\q2 karena dia tidak memiliki kemampuan untuk bijak.
 \q2
 \p
 \b
@@ -96,12 +96,12 @@
 \p
 \b
 \q1
-\v 19 Siapa saja yang senang bertengkar berarti senang hidup dalam dosa.
-\q2 Orang yang suka mulut besar sebenarnya buka pintu untuk kehancuran.
+\v 19 Siapa yang senang bertengkar berarti senang hidup dalam dosa.
+\q2 Orang yang mulut besar sebenarnya membuka pintu untuk kehancuran.
 \p
 \b
 \q1
-\v 20 
+\v 20 Orang yang 
 \q2
 \p
 \b
