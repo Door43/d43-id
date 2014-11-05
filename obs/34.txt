@@ -4,7 +4,7 @@
 ====== 34. Yesus Mengajarkan Cerita Lainnya ======
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
 
 
 Jesus told many other stories about the Kingdom of God. He said, “The Kingdom of God is like a mustard seed that a man planted in his field. When it is a seed, it is the smallest seed of all.”
@@ -13,7 +13,7 @@ Jesus told many other stories about the Kingdom of God. He said, “The Kingdom 
 Yesus menceritakan banyak cerita lain tentang Kerajaan Allah. Dia berkata, "Kerajaan Allah adalah seperti biji sawi yang ditanam seorang pria di ladangnya. Ketika Itu masih berupa biji, itu merupakan biji terkecil dari semua jenis biji. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
 
 
 “But when it has grown, it is the largest of all garden plants, big enough that even the birds come and make nests in its branches.”
@@ -22,7 +22,7 @@ Yesus menceritakan banyak cerita lain tentang Kerajaan Allah. Dia berkata, "Kera
 "Tapi saat benih itu sudah tumbuh, benih itu akan menjadi yang terbesar dari semua tanaman di kebun, cukup besar sehingga bahkan burung-burung datang dan membuat sarang pada cabang-cabangnya."
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
 
 
 Jesus told another story, “The Kingdom of God is like yeast that a woman mixed into some bread dough until it spread all the way through.”
@@ -31,7 +31,7 @@ Jesus told another story, “The Kingdom of God is like yeast that a woman mixed
 Yesus menceritakan cerita yang lain, "Kerajaan Allah adalah seperti ragi yang diampurkan seorang perempuan ke dalam adonan roti sampai menyebar ke seluruh adonan itu."
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
 
 
 “The Kingdom of God is also like hidden treasure in a field, which a man found and then buried again. In his joy, he went and sold everything he had and bought that field.”
@@ -40,7 +40,7 @@ Yesus menceritakan cerita yang lain, "Kerajaan Allah adalah seperti ragi yang di
 "Kerajaan Allah juga seperti harta yang terpendam di ladang, di mana seseorang menemukanya yang kemudian menguburkannya lagi. Dalam sukacitanya, dia pergi menjual seluruh miliknya lalu membeli ladang itu. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
 
 
 “The Kingdom of God is also like a pearl merchant who was looking for perfect pearls. When he found one of great price, he sold all that he had and bought it.”
@@ -49,13 +49,13 @@ Yesus menceritakan cerita yang lain, "Kerajaan Allah adalah seperti ragi yang di
 "Kerajaan Allah juga seperti seorang pedagang mutiara yang sedang mencari mutiara yang sempurna. Ketika dia menemukan mutiara yang amat baik, dia menjual seluruh miliknya lalu membeli mutiara itu. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
 
 
 Then Jesus told a story about people who trust in their own good deeds and despise other people. “Two men went up to the Temple to pray. One of them was a tax collector, and the other a religious leader.”
 
 
-Kemudian Yesus menceritakan cerita tentang orang-orang yang percaya bahwa amal mereka sendiri dapat menyelamatkan mereka, dan suka menghina orang lain. "Ada dua orang pergi ke Bait Allah untuk berdoa. Salah satunya adalah seorang pemungut cukai, dan lain seorang pemimpin agama. " {{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
+Kemudian Yesus menceritakan cerita tentang orang-orang yang percaya bahwa amal mereka sendiri dapat menyelamatkan mereka, dan suka menghina orang lain. "Ada dua orang pergi ke Bait Allah untuk berdoa. Salah satunya adalah seorang pemungut cukai, dan lain seorang pemimpin agama. " {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
 
 
 “The religious leader prayed like this, ‘Thank you God that I am not like other men—robbers, unjust men, adulterers, or even like that tax collector.’”
@@ -64,13 +64,13 @@ Kemudian Yesus menceritakan cerita tentang orang-orang yang percaya bahwa amal m
 "Pemimpin agama itu berdoa seperti ini, “Terima kasih Tuhan bahwa aku tidak sama seperti perampok, pria lalim, bukan pezinah dan bukan juga seperti pemungut pajak itu."
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
 
 
 “‘I fast two times every week and I give you ten percent of everything I get.’” "
 
 
-'Aku berpuasa dua kali setiap minggu dan aku memberikan sepuluh persen dari segala yang aku punya.'" {{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
+'Aku berpuasa dua kali setiap minggu dan aku memberikan sepuluh persen dari segala yang aku punya.'" {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
 
 
 “But the tax collector stood far away, did not even lift his eyes up to heaven, but beat his chest and prayed, ‘God, have mercy on me, a sinner.’”
@@ -79,7 +79,7 @@ Kemudian Yesus menceritakan cerita tentang orang-orang yang percaya bahwa amal m
 "Tapi pemungut cukai itu berdiri di tempat yang jauh, bahkan tidak mengangkat matanya ke langit, melainkan dia memukul dadanya dan berdoa, 'Tuhan, kasihanilah aku orang berdosa ini.'"
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
 
 
 Then Jesus said, “I tell you the truth, the tax collector went home forgiven, and not the religious leader. Everyone who is proud will be humbled, but whoever humbles himself will be lifted up.”
