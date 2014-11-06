@@ -1,4 +1,3 @@
-~~NO_STYLING~~
 <USFM>
 \c 1
 \s Yohanes Pembaptis menyiapkan umat Allah untuk kedatangan Yesus
@@ -84,4 +83,3 @@
 \p
 \v 45 Tetapi orang itu pergi dan menceritakan kejadian itu kepada setiap orang di mana saja bahwa Yesus sudah menyembuhkan dia. Oleh karena itu, Yesus tidak mau lagi masuk secara terang-terangan ke dalam kota. Jadi Dia dan murid-murid-Nya tinggal di luar kota saja di daerah-daerah yang sepi. Biarpun begitu, orang-orang dari mana saja terus berdatangan kepada-Nya.
 </USFM>
-~~NO_STYLING~~
