@@ -1,7 +1,7 @@
 ====== 24. John Baptizes Jesus ======
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?direct&}}
 
 
 When John grew up, he became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.
@@ -10,7 +10,7 @@ When John grew up, he became a prophet. He lived in the wilderness, ate wild hon
 Ketika Yohanes tumbuh dewasa, dia menjadi seorang nabi. Dia tinggal di padang gurun, makan madu liar dan belalang, dan memakai pakaian yang terbuat dari bulu unta.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?direct&}}
 
 
 Many people came to listen to John. He preached to them, saying, “Repent, for the Kingdom of God is near!”
@@ -19,7 +19,7 @@ Many people came to listen to John. He preached to them, saying, “Repent, for 
 Banyak orang datang untuk mendengarkan Yohanes. Dia berkhotbah kepada mereka, katanya, "Bertobatlah, sebab Kerajaan Allah sudah dekat!"
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?direct&}}
 
 
 Some people repented and were baptized when they heard John’s message, but there were many religious leaders who came to be baptized without repenting and confessing their sins.
@@ -28,7 +28,7 @@ Some people repented and were baptized when they heard John’s message, but the
 Beberapa orang bertobat dan dibaptis sesudah mereka mendengar pesan Yohanes, tapi banyak pemimpin agama yang datang untuk dibaptis tanpa bertobat dan mengaku dosa mereka lebih dahulu.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?direct&}}
 
 
 John said to the religious leaders, “You bunch of snakes! Repent and change your behavior. Every tree that does not bear good fruit will be cut down and thrown into the fire.” This fulfilled what the prophet Isaiah said, “Behold, I send my messenger ahead of you, who will prepare your way.”
@@ -37,7 +37,7 @@ John said to the religious leaders, “You bunch of snakes! Repent and change yo
 Yohanes berkata kepada para pemimpin agama itu, "Kamu sekelompok ular! Bertobatlah dan ubahlah perilakumu. Setiap pohon yang tidak menghasilkan buah yang baik, pasti ditebang dan dibuang ke dalam api." Jadi terjadilah apa yang dikatakan nabi Yesaya," Lihatlah, Aku menyuruh utusanKu mendahului Engkau, Dia akan mempersiapkan jalan Anda. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?direct&}}
 
 
 Some Jews asked John if he was the Messiah. John replied, “I am not the Messiah, but there is someone coming after me who is much greater than I am. I am not even worthy to untie his sandals.”
@@ -46,7 +46,7 @@ Some Jews asked John if he was the Messiah. John replied, “I am not the Messia
 Beberapa orang Yahudi menanyakan kepada Yohanes apakah dia adalah Mesias. Yohanes menjawab, "Aku bukan Mesias, tetapi ada seseorang yang datang setelah aku yang jauh lebih penting dari aku. Aku bahkan tidak layak untuk melepaskan sandalnya. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?direct&}}
 
 
 The next day, Jesus came to be baptized by John. When John saw him, he said, “Look! There is the Lamb of God who takes away the sin of the world.”
@@ -55,7 +55,7 @@ The next day, Jesus came to be baptized by John. When John saw him, he said, “
 Keesokan harinya, Yesus datang untuk dibaptiskan oleh Yohanes. Ketika Yohanes melihatNya, dia berkata, "Lihat! Inilah Anak Domba Allah, yang menghapus dosa dunia. "
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?direct&}}
 
 
 John said to Jesus, “I am not worthy to baptize you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him, but not because Jesus had sinned—he never sinned.
@@ -64,7 +64,7 @@ John said to Jesus, “I am not worthy to baptize you. You should baptize me ins
 Yohanes berkata kepada Yesus, "Aku tidak layak untuk membaptis Engkau. Seharusnya Engkau membaptis aku." Tetapi Yesus berkata," Engkau harus membaptis Aku, karena itulah yang benar yang harus dilakukan." Jadi Yohanes membaptis Dia, tapi bukan karena Yesus telah berdosa— Dia tidak pernah berdosa.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?direct&}}
 
 
 When Jesus came out of the water, the Spirit of God took the appearance of a dove and landed on him. At the same time a voice from heaven said, “You are My beloved Son, and with you I am well pleased.”
@@ -73,7 +73,7 @@ When Jesus came out of the water, the Spirit of God took the appearance of a dov
 Ketika Yesus keluar dari air setelah dibaptis, Roh Allah mengambil bentuk burung merpati dan hinggap pada diriNya. Pada saat yang sama suara dari surga berkata, "Engkau adalah AnakKu yang terkasih, dan kepadaMu Aku berkenan."
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?direct&}}
 
 
 God had told John, “The Holy Spirit will land on someone you baptize. He is the Son of God.” There is only one God. But God is three persons, the Father, Jesus the Son, and the Holy Spirit.
