@@ -127,21 +127,21 @@
 \b
 \q1
 \v 25 Anak yang bodoh mendukakan bapaknya
-\q2 dan kepahitan bagi yang melahirkannya.`
+\q2 dan membawa kepahitan bagi ibunya.
 \p
 \b
 \q1
-\v 26 
-\q2
+\v 26 Tidak baik untuk menghukum orang yang tidak bersalah
+\q2 atau menghukum para pemimpin karena ketulusan mereka.
 \p
 \b
 \q1
-\v 27 
-\q2
+\v 27 Orang bijak tidak banyak bicara,
+\q2 dan mereka yang memiliki pengertian berkepala dingin.
 \p
 \b
 \q1
-\v 28 
-\q2
+\v 28 Orang bodohpun kelihatan bijak jika tidak berbicara;
+\q2 dan bila tidak membuka mulut, dia akan disangka memiliki pengertian.
 </USFM>
 ~~DISCUSSIONS:on~~
