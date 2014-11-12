@@ -3,23 +3,23 @@
 \p
 \b
 \q1
-\v 1 
-\q2
+\v 1 Seseorang yang menyendiri mencari keinginan dirinya sendiri
+\q2 dan membenci segala sesuatu yang masuk akal.
 \p
 \b
 \q1
-\v 2 
-\q2
+\v 2 Orang bodoh tidak mendapatkan kepuasan dalam pengertian  
+\q2 dia hanya merasa puas bila mengatakan apa yang sedang dipikirkannya.
 \p
 \b
 \q1
-\v 3 
-\q2
+\v 3 Bila orang jahat datang, datang juga penghinaan,
+\q2 dan kalau sudah dicela, maka akan juga diejek.
 \p
 \b
 \q1
-\v 4 
-\q2
+\v 4 Perkataan yang keluar dari mulut seseorang bagaikan air yang dalam,
+\q2 tetapi air mancur kebijaksanaan bagaikan kali yang mengalir.
 \p
 \b
 \q1
