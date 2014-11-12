@@ -5,7 +5,7 @@
 \q1
 \v 1 Lebih baik makan nasi kosong\f + \fr 17:1 \fk nasi kosong \ft Secara harfiah, “roti kering.”\f*
  dengan hati yang tenang,
-\q2 daripada makan makanan pesta di rumah yang selalu ada pertengkaran.
+\q2 daripada hidangan istimewa di rumah yang selalu ada pertengkaran.
 \p
 \b
 \q1
