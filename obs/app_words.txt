@@ -1,0 +1,21 @@
+//Translation for the unfoldingWord mobile app interface //
+
+Select a language: Pilih Bahasa
+
+Chapters: Bab
+
+Languages: Bahasa
+
+Next chapter: Bab selanjutnya
+
+OK: OK
+
+Cancel: Batal
+
+Save locally: Simpan secara lokal
+
+Save this string: Simpan bahasa ini secara lokal untuk penggunaan offline.
+
+Remove locally: Hapus data lokal
+
+Remove this string: Hapus bahasa ini dari penyimpanan offline. Anda akan membutuhkan koneksi intetrnet untuk membuka di masa depan.
