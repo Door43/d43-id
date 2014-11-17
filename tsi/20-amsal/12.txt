@@ -4,8 +4,8 @@
 \p
 \b
 \q1
-\v 1 Orang yang [gemar menuntut ilmu/pintar] dapat menerima teguran,
-\q2 tetapi orang yang tidak mau ditegur akan tetap bodoh.
+\v 1 Kalau kamu berminat menjadi pintar, kamu harus terbuka [ditegur//menerima teguran].
+\q2 Orang yang tidak mau ditegur akan tetap bodoh.
 \p 
 \b
 \q1
