@@ -8,7 +8,7 @@
 
   * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan</font> Sederhana<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Indonesia</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>
 
   * [[:id:tsi|TSI]]
 
