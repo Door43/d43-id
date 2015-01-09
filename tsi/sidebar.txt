@@ -2,7 +2,7 @@
 
 ----
 
-<font 14px/inherit;;inherit;;inherit>** Proyek Terjemahan Sederhana Indonesia **</font>
+<font 22px/inherit;;#FFFFFF;;#0000CD>** Proyek</font> <font 22px/inherit;;#FFFFFF;;#0000CD></font> <font 22px/inherit;;#FFFFFF;;#0000CD>Terjemahan</font> <font 22px/inherit;;#FFFFFF;;#0000CD></font> <font 22px/inherit;;#FFFFFF;;#0000CD>Sederhana</font> <font 22px/inherit;;#FFFFFF;;#0000CD>Indonesia</font> **
 
 **Perubahan-perubahan terbaru kepada TSI:**
 
