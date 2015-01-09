@@ -1,0 +1,18 @@
+~~NOCACHE~~
+
+----
+
+====== **Terjemahan Sederhana Indonesia**  ======
+
+**Perubahan-perubahan terbaru kepada TSI**
+
+{{changes>ns = id:tsi}}
+
+**Proyek lain berdasarkan TSI**
+
+   * [[:id:tsit|TSIT]]
+  * [[:en:pet|PET]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-id|d43-id repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
