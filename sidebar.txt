@@ -2,38 +2,35 @@
 
 ----
 
+**Door43**
 
-**Door43** 
+   * [[:id:home|Door43 (id)]]
 
+  * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
 
-    * [[:id:home|Door43 (id)]]
+**Terjemahan Sederhana Indonesia**
 
-   * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
+  * [[:id:tsi|TSI]]
 
-**Terjemahan Sederhana Indonesia** 
- 
-    * [[:id:tsi|TSI]]
+**Terjemahan Sederhana Indonesia Timur**
 
-**Terjemahan Sederhana Indonesia Timur** 
- 
-    * [[:id:tsit|TSIT]]
+  * [[:id:tsit|TSIT]]
 
-**Plain English Translation** 
+**Plain English Translation**
 
-    * [[:en:pet|PET]]
- 
-
+  * [[:en:pet|PET]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-id|d43-id repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-id|d43-id repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
 
 **Recent Changes**
+
 {{changes>ns = id}}
 
 **Latest Status**
-{{page>en:uwadmin:id:obs:status}}
 
+{{page>en:uwadmin:id:obs:status}}
 
 **Language Information**
 
