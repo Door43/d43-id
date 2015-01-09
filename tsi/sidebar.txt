@@ -2,7 +2,7 @@
 
 ----
 
-<font 16px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>
 
 **Perubahan-perubahan terbaru kepada TSI:**
 
