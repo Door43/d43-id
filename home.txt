@@ -2,21 +2,21 @@
 
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab dan bahan pemuridan yang lain.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>Cerita-cerita Alkitab yang terbuka (id)</font> ]]
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>Cerita-cerita Alkitab yang terbuka (id)</font>    ]]
 
 Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Terjemahan Sederhana Indonesia. Kalau Anda ingin tergabung dengan Tim BahasaKita— baik secara informal atau sebagai anggota tim, silakan hubungi tim.kita@bahasakita.net.
 
-==== Terjemahan Sederhana Indonesia ====
+==== <font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>   ====
 
 Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
   * [[:id:tsi|TSI]]
 
-**Terjemahan Sederhana Indonesia Timur**  TSIT hampir sama dengan TSI, tetapi lebih sederhana lagi. Terjemahan ini disediakan sebagai contoh untuk menolong para penerjemah Alkitab di mana bahasa suku tidak menggunakan bentuk pasif dan beberapa istilah Alkitab tidak dikenal.
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008000;;inherit>** Terjemahan Sederhana Indonesia Timur **</font> TSIT hampir sama dengan TSI, tetapi lebih sederhana lagi. Terjemahan ini disediakan sebagai contoh untuk menolong para penerjemah Alkitab di mana bahasa suku tidak menggunakan bentuk pasif dan beberapa istilah Alkitab tidak dikenal.
 
   * [[:id:tsit|TSIT]]
 
-**Plain English Translation**  PET berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#800080;;inherit>** Plain English Translation **</font> PET berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
 
   * [[:en:pet|PET]]
 
