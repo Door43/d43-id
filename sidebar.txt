@@ -8,15 +8,15 @@
 
   * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
 
-**Terjemahan Sederhana Indonesia**
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan</font> Sederhana<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Indonesia</font>
 
   * [[:id:tsi|TSI]]
 
-**Terjemahan Sederhana Indonesia Timur**
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008000;;inherit>Terjemahan Sederhana Indonesia Timur</font>
 
   * [[:id:tsit|TSIT]]
 
-**Plain English Translation**
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#800080;;inherit>Plain English Translation</font>
 
   * [[:en:pet|PET]]
 
