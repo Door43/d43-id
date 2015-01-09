@@ -1,0 +1,10 @@
+====== **Terjemahan Sederhana Indonesia Timur**  ======
+
+==== Other projects in this group ====
+
+  * [[:en:pet|PET]]
+  * [[:id:tsi|TSI]]
+
+**Recent Changes to the TSIT**
+
+{{changes>ns = id:tsit}}
