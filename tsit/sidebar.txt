@@ -1,4 +1,4 @@
-<font 18px/inherit;;#B22222;;inherit>Terjemahan Sederhana Indonesia Timur</font>
+<font 18px/inherit;;#00cc33;;inherit>Terjemahan Sederhana Indonesia Timur</font>
 
 **Other projects based on the TSI:**
 
