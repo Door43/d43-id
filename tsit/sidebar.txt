@@ -1,10 +1,10 @@
-====== **Terjemahan Sederhana Indonesia Timur**  ======
+<font 18px/inherit;;#800000;;inherit>** Proyek Terjemahan Sederhana Indonesia Timur **</font>
 
-==== Other projects in this group ====
+**Other projects based on the TSI:**
 
   * [[:en:pet|PET]]
   * [[:id:tsi|TSI]]
 
-**Recent Changes to the TSIT**
+**Recent Changes to the TSIT:**
 
 {{changes>ns = id:tsit}}
