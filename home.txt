@@ -6,7 +6,7 @@ Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab 
 
 Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Terjemahan Sederhana Indonesia. Kalau Anda ingin tergabung dengan Tim BahasaKita— baik secara informal atau sebagai anggota tim, silakan hubungi tim.kita@bahasakita.net.
 
-==== <font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>    ====
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>
 
 Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
