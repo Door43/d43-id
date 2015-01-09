@@ -2,7 +2,7 @@
 
 ----
 
-__**Proyek Terjemahan Sederhana Indonesia**__
+<font 14px/inherit;;inherit;;inherit>** Proyek Terjemahan Sederhana Indonesia **</font>
 
 **Perubahan-perubahan terbaru kepada TSI:**
 
@@ -10,7 +10,7 @@ __**Proyek Terjemahan Sederhana Indonesia**__
 
 **Proyek lain berdasarkan TSI:**
 
-  * [[:id:tsit|TSIT]]
+   * [[:id:tsit|TSIT]]
   * [[:en:pet|PET]]
 
 **Downloads**
