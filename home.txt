@@ -1,6 +1,6 @@
 ====== Door43 (id) ======
 
-To see the list of OBS stories in Indonesian click [[:id:obs|here]].
+To see the list of OBS stories in Indonesian click [[:id:obs]].
 
 For help, please click [[:en:obs:help|here]].
 
