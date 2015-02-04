@@ -2,7 +2,7 @@
 
 To see the list of OBS stories in Indonesian click [[:id:obs]].
 
-For help, please click [[:en:obs:help|here]].
+For help, in English, please click [[:en:obs:help]]. 
 
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab dan bahan pemuridan yang lain.
 
