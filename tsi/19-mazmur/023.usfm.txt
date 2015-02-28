@@ -1,5 +1,5 @@
 \c 23
-\d Mazmur yang ditulis oleh Daud
+\d (1) Mazmur yang ditulis oleh Daud
 \q1
 \v 1 Ya ALLAH, aku bagaikan domba-Mu, dan Engkau adalah gembalaku.
 \q2 Karena itu aku tidak kekurangan apapun.
