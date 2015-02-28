@@ -1,3 +1,10 @@
 ===== RUT =====
 
-| **[[:id:tsi:08-rut:1|1]]** | **[[:id:tsi:08-rut:2|2]]** | **[[:id:tsi:08-rut:3|3]]** | **[[:id:tsi:08-rut:4|4]]** |
+| **[[:id:tsi:08-rut:1.usfm|1]]** | **[[:id:tsi:08-rut:2.usfm|2]]** | **[[:id:tsi:08-rut:3.usfm|3]]** | **[[:id:tsi:08-rut:4.usfm|4]]** |
+
+
+\\
+
+Draft by Paula 2014. 
+Revision1 Paula/Rima/Phil 
+Revsion2 Bertha/Phil
