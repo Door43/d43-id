@@ -31,7 +31,7 @@
 \p
 \v 18 Inilah garis keturunan mereka mulai dari nenek moyang mereka Peres:
 \b
-\li1 Peres,
+\li1 Peres,\f + \fr 4:18-22 \fk garis keturunan \ft Dalam daftar ini, setiap orang adalah bapak orang yang berikut. Daftar ini diberikan tanpa pengulangan setiap nama.\f*
 \li1
 \v 19 Hesron,
 \li1 Ram,
@@ -39,7 +39,7 @@
 \v 20 Aminadab,
 \li1 Nahson,
 \li1
-\v 21 Salmon,\f +\fr 4:20-21 \fk Salmon \ft Nama Salmon dieja seperti dalam teks Yunani. Dalam teks Ibrani namanya Salma.\f*
+\v 21 Salmon,\f + \fr 4:20-21 \fk Salmon \ft Nama Salmon dieja seperti dalam teks Yunani. Dalam teks Ibrani namanya Salma.\f*
 \li1 Boas,
 \li1
 \v 22 Obed,
