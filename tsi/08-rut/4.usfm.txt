@@ -31,7 +31,7 @@
 \p
 \v 18 Inilah garis keturunan mereka, mulai dari Peres— yaitu nenek moyang mereka:
 \b
-\li1 Peres,\f + \fr 4:18-22 \fk garis keturunan \ft Dalam daftar ini, setiap orang adalah ayah dari orang berikutnya. Daftar ini diberikan tanpa pengulangan setiap nama.\f*
+\li1 Peres,\f + \fr 4:18-22 \fk garis keturunan \ft Daftar ini diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama dibawanya adalah nama anaknya. Jika diurutkan dari bawah, maka nama di atasnya adalah nama bapaknya.\f*
 \li1
 \v 19 Hesron,
 \li1 Ram,
