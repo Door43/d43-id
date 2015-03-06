@@ -1,7 +1,7 @@
 ===== MAZMUR =====
 
 
-| **[[:id:tsi:19-mazmur:001.usfm|1]]** | **[[:id:tsi:19-mazmur:002.usfm|2]]** | **[[:id:tsi:19-mazmur:003.usfm|3]]** | **[[:id:tsi:19-mazmur:004.usfm|4]]** | **[[:id:tsi:19-mazmur:005|5]]** | **[[:id:tsi:19-mazmur:006|6]]** | **[[:id:tsi:19-mazmur:007|7]]** | **[[:id:tsi:19-mazmur:008|8]]** | **[[:id:tsi:19-mazmur:009|9]]** | **[[:id:tsi:19-mazmur:010|10]]** |
+| **[[:id:tsi:19-mazmur:001.usfm|1]]** | **[[:id:tsi:19-mazmur:002.usfm|2]]** | **[[:id:tsi:19-mazmur:003.usfm|3]]** | **[[:id:tsi:19-mazmur:004.usfm|4]]** | **[[:id:tsi:19-mazmur:005.usfm|5]]** | **[[:id:tsi:19-mazmur:006|6]]** | **[[:id:tsi:19-mazmur:007|7]]** | **[[:id:tsi:19-mazmur:008|8]]** | **[[:id:tsi:19-mazmur:009|9]]** | **[[:id:tsi:19-mazmur:010|10]]** |
 | **[[:id:tsi:19-mazmur:011|11]]** | **[[:id:tsi:19-mazmur:012|12]]** | **[[:id:tsi:19-mazmur:013.usfm|13]]** | **[[:id:tsi:19-mazmur:014.usfm|14]]** | **[[:id:tsi:19-mazmur:015.usfm|15]]** | **[[:id:tsi:19-mazmur:016.usfm|16]]** | **[[:id:tsi:19-mazmur:017.usfm|17]]** | **[[:id:tsi:19-mazmur:018.usfm|18]]** | **[[:id:tsi:19-mazmur:019.usfm|19]]** | **[[:id:tsi:19-mazmur:020.usfm|20]]** |
 | **[[:id:tsi:19-mazmur:021.usfm|21]]** | **[[:id:tsi:19-mazmur:022.usfm|22]]** | **[[:id:tsi:19-mazmur:023.usfm|23]]** | **[[:id:tsi:19-mazmur:024.usfm|24]]** | **[[:id:tsi:19-mazmur:025.usfm|25]]** | **[[:id:tsi:19-mazmur:026.usfm|26]]** | **[[:id:tsi:19-mazmur:027.usfm|27]]** | **[[:id:tsi:19-mazmur:028.usfm|28]]** | **[[:id:tsi:19-mazmur:029.usfm|29]]** | **[[:id:tsi:19-mazmur:030.usfm|30]]** |
 |  |  |  |  |  |  |  |  |  |  |
