@@ -1,22 +1,40 @@
-Mazmur yang ditulis Daud
-1Allah, jagalah aku
-karena kepada-Mu aku berlindung!
-2 Aku berkata kepada ALLAH, “Engkaulah Tuhanku;
-segala-sesuatu yang baik yang ku miliki berasal dari Engkau.”
-3 Umatmu yang berdiam di tanah ini menakjubkan;
-Aku senang berada di tengah-tengah mereka.
-4Berbagai penyebab kesedihan adalah karena orang-orang telah putuskan untuk menyembah ilah-ilah lain.
-Aku tidak mau bergabung saat mereka menyebut nama ilah-ilah lain. 5ALLAH, hanya pada Engkau sajalah telah aku menaruh pilihan,
-dan berkat-berkat-MU padaku sungguh melimpah.
-6Aku bersuka dengan semua yang telah diberikan-Mu; Engkau telah menyiapkan untukku tempat tinggal yang luar biasa.
-7Aku akan memuji ALLAH, yang mendidikku;
-pada malam hari pun Dia memberitahu sanubariku apa yang harus dilakukan.
-8 Aku tahu ALLAH selalu sertaku.
-Dia berada disampingku agar tidak ada sesuatu yang membuat aku risau.
-9 Oleh karenanya aku bersuka cita dan memujimu;
-dan dapat beristirahat dengan aman tentram
-10 karena Engkau tidak akan memperbolehkan jiwaku tinggal di tempat orang mati,
-dan tidak akan memperbolehkan orang saleh, tinggal di sana.
-11Engkau akan menuntunku menuju hidup yang kekal,
-karena bersama-Mu aku akan bersuka cita.
-Ketika duduk disamping kanan-Mu aku akan merasa senang untuk selama-lamanya.
+\c 16
+\d Mazmur yang ditulis Daud
+\q1
+\v 1 Allah, jagalah aku
+\q2karena kepada-Mu aku berlindung!
+\q1
+\v 2 Aku berkata kepada ALLAH, “Engkaulah Tuhanku;
+\q2 segala-sesuatu yang baik yang ku miliki berasal dari Engkau.”
+\p
+\b
+\q1
+\v 3 Umatmu yang berdiam di tanah ini menakjubkan;
+\q2 Aku senang berada di tengah-tengah mereka.
+\p 
+\q1
+\v 4Berbagai penyebab kesedihan adalah karena orang-orang telah putuskan untuk menyembah ilah-ilah lain.
+\q2Aku tidak mau bergabung saat mereka menyebut nama ilah-ilah lain. 
+\q1
+\v 5 ALLAH, hanya pada Engkau sajalah telah aku menaruh pilihan,
+\q2 dan berkat-berkat-MU padaku sungguh melimpah.
+\p
+\q1
+\v 6Aku bersuka dengan semua yang telah diberikan-Mu; 
+\q2 Engkau telah menyiapkan untukku tempat tinggal yang luar biasa.
+\q1
+\v 7 Aku akan memuji ALLAH, yang mendidikku;
+\q2 pada malam hari pun Dia memberitahu sanubariku apa yang harus dilakukan.
+\q1 
+\v 8 Aku tahu ALLAH selalu sertaku.
+\q2 Dia berada disampingku agar tidak ada sesuatu yang membuat aku risau.
+\q1
+\v 9 Oleh karenanya aku bersuka cita dan memujimu;
+\q2 dan dapat beristirahat dengan aman tentram
+\v 10 karena Engkau tidak akan memperbolehkan jiwaku tinggal di tempat orang mati,
+\q2 dan tidak akan memperbolehkan orang saleh, tinggal di sana.
+\q1
+\v 11 Engkau akan menuntunku menuju hidup yang kekal,
+\q2 karena bersama-Mu aku akan bersuka cita.
+\q1 Ketika duduk disamping kanan-Mu aku akan merasa senang untuk selama-lamanya.
+\b
