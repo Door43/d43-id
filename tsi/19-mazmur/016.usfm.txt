@@ -14,14 +14,16 @@
 \q1
 \v 4 Berbagai penyebab kesedihan adalah karena orang-orang telah putuskan untuk menyembah ilah-ilah lain.
 \q2 Aku tidak mau bergabung saat mereka menyebut nama ilah-ilah lain. 
-\q1
 \p
+\b
+\q1
 \v 5 ALLAH, hanya pada Engkau sajalah telah aku menaruh pilihan,
 \q2 dan berkat-berkat-MU padaku sungguh melimpah.
 \q1
 \v 6 Aku bersuka dengan semua yang telah diberikan-Mu; 
 \q2 Engkau telah menyiapkan untukku tempat tinggal yang luar biasa.
 \p
+\b
 \q1
 \v 7 Aku akan memuji ALLAH, yang mendidikku;
 \q2 pada malam hari pun Dia memberitahu sanubariku apa yang harus dilakukan.
@@ -29,6 +31,7 @@
 \v 8 Aku tahu ALLAH selalu sertaku.
 \q2 Dia berada disampingku agar tidak ada sesuatu yang membuat aku risau.
 \p
+\b
 \q1
 \v 9 Oleh karenanya aku bersuka cita dan memujimu;
 \q2 dan dapat beristirahat dengan aman tentram
