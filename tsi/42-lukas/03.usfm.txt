@@ -54,94 +54,34 @@
 \s Silsilah Yesus
 \r (Mat. 1:1-17)
 \p
-\v 23 Yesus berumur tiga puluh tahun ketika Dia memulai pekerjaan-Nya. Orang-orang menyangka, Dia adalah anak Yusuf. Inilah para leluhur dari Yusuf, mulai dari bapaknya:
+\v 23 Yesus berumur tiga puluh tahun ketika Dia memulai pekerjaan-Nya. Orang-orang menyangka, Dia adalah anak Yusuf. Inilah para leluhur dari Yusuf, mulai dari bapaknya:\f + \fr 3:24-38 \fk daftar leluhur \ft Daftar ini diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama berikutnya adalah nama bapaknya. Jika diurutkan dari bawah, maka nama sebelumnya adalah nama anaknya.\f*
 \q1
-\v 24 Eli,
-\q1 kemudian Matat,
-\q1 Lewi,
-\q1 Malki,
-\q1 Yanai,
+\v 24 Eli, kemudian Matat, Lewi, Malki, Yanai, Yusuf,
 \q1
-\v 25 Yusuf adalah anak Matica,
-\q1 Matica adalah anak Amos,
-\q1 Amos adalah anak Nahum,
-\q1 Nahum adalah anak Hesli,
-\q1 Hesli adalah anak Nagai,
+\v 25 Matica, Amos, Nahum, Hesli, Nagai,
 \q1
-\v 26 Nagai adalah anak Maat,
-\q1 Maat adalah anak Matica,
-\q1 Matica adalah anak Simei,
-\q1 Simei adalah anak Yosekh,
-\q1 Yosekh adalah anak Yoda.
+\v 26 Maat, Matica, Simei, Yosekh, Yoda,
 \q1
-\v 27 Yoda adalah anak Yohanan,
-\q1 Yohanan adalah anak Resa,
-\q1 Resa adalah anak Zerubabel,
-\q1 Zerubabel adalah anak Sealtiel,
-\q1 Sealtiel adalah anak Neri,
+\v 27 Yohanan, Resa, Zerubabel, Sealtiel, Neri,
 \q1
-\v 28 Neri adalah anak Malkhi,
-\q1 Malkhi adalah anak Adi,
-\q1 Adi adalah anak Kosam,
-\q1 Kosam adalah anak Elmadam,
-\q1 Elmadam adalah anak Er,
+\v 28 Malkhi, Adi, Kosam, Elmadam, Er,
 \q1
-\v 29 Er adalah anak Yesua,
-\q1 Yesua adalah anak Eliezer,
-\q1 Eliezer adalah anak Yorim,
-\q1 Yorim adalah anak Matat,
-\q1 Matat adalah anak Lewi.
+\v 29 Yesua, Eliezer, Yorim, Matat, Lewi,
 \q1
-\v 30 Lewi adalah anak Simeon,
-\q1 Simeon adalah anak Yehuda,
-\q1 Yehuda adalah anak Yusuf,
-\q1 Yusuf adalah anak Yonam,
-\q1 Yonam adalah anak Elyakim,
+\v 30 Simeon, Yehuda, Yusuf, Yonam, Elyakim,
 \q1
-\v 31 Elyakim adalah anak Melea,
-\q1 Melea adalah anak Mina,
-\q1 Mina adalah anak Matata,
-\q1 Matata adalah anak Natan,
-\q1 Natan adalah anak Daud,
+\v 31 Melea, Mina, Matata, Natan, Daud,
 \q1
-\v 32 Daud adalah anak Isai,
-\q1 Isai adalah anak Obed,
-\q1 Obed adalah anak Boas,
-\q1 Boas adalah anak Salmon,
-\q1 Salmon adalah anak Nahason.
+\v 32 Isai, Obed, Boas, Salmon, Nahason,
 \q1
-\v 33 Nahason adalah anak Aminadab,
-\q1 Aminadab adalah anak Admin,
-\q1 Admin adalah anak Arni,
-\q1 Arni adalah anak Hezron,
-\q1 Hezron adalah anak Peres,
-\q1 Peres adalah anak Yehuda,
+\v 33 Aminadab, Admin, Arni, Hezron, Peres, Yehuda,
 \q1
-\v 34 Yehuda adalah anak Yakub,
-\q1 Yakub adalah anak Ishak,
-\q1 Ishak adalah anak Abraham,
-\q1 Abraham adalah anak Terah,
-\q1 Terah adalah anak Nahor,
+\v 34 Yakub, Isak, Abraham, Terah, Nahor,
 \q1
-\v 35 Nahor adalah anak Serug,
-\q1 Serug adalah anak Rehu,
-\q1 Rehu adalah anak Peleg,
-\q1 Peleg adalah anak Eber,
-\q1 Eber adalah anak Salmon.
+\v 35 Serug, Rehu, Peleg, Eber, Salmon,
 \q1
-\v 36 Salmon adalah anak Kenan,
-\q1 Kenan adalah anak Arpakhsad,
-\q1 Arpakhsad adalah anak Sem,
-\q1 Sem adalah anak Nuh,
-\q1 Nuh adalah anak Lamekh,
+\v 36 Kenan, Arpakhsad, Sem, Nuh, Lamekh,
 \q1
-\v 37 Lamekh adalah anak Metusalah,
-\q1 Metusalah adalah anak Henokh,
-\q1 Henokh adalah anak Yared,
-\q1 Yared adalah anak Mahalaleel,
-\q1 Mahalaleel adalah anak Kenan,
+\v 37 Metusalah, Henokh, Yared, Mahalaleel, Kenan,
 \q1
-\v 38 Kenan adalah anak Enos,
-\q1 Enos adalah anak Set,
-\q1 Set adalah anak Adam,
-\q1 Adam adalah anak Allah.
+\v 38 Enos, Set, Adam. Dan Adam adalah anak Allah.
