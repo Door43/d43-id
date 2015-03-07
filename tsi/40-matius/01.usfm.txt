@@ -9,63 +9,12 @@
 \r (Luk. 3:23-38)
 \p
 \v 1 Inilah daftar nenek moyang Kristus Yesus. Dia berasal dari keturunan Daud, yang adalah keturunan Abraham.
-\q1
-\v 2 Abraham adalah bapak Isak,
-\q1 Isak adalah bapak Yakub,
-\q1 Yakub adalah bapak Yehuda dan saudara-saudaranya.
-\q1
-\v 3 Yehuda adalah bapak Peres dan Zerah, dan ibu mereka bernama Tamar.
-\q1 Peres adalah bapak Hesron.
-\q1 Hesron adalah bapak Ram.
-\q1
-\v 4 Ram adalah bapak Aminadab.
-\q1 Aminadab adalah bapak Nahason.
-\q1 Nahason adalah bapak Salmon.
-\q1
-\v 5 Salmon adalah bapak Boas, dan Rahab adalah ibunya.
-\q1 Boas adalah bapak Obed, dan Rut adalah ibunya.
-\q1 Obed adalah bapak Isai.
-\q1
-\v 6 Isai adalah bapak Raja Daud.
-\q1 Daud adalah bapak Salomo, dan ibu dari Salomo adalah mantan istri Uria.
-\q1
-\v 7 Salomo adalah bapak Rehabeam.
-\q1 Rehabeam adalah bapak Abia.
-\q1 Abia adalah bapak Asa.
-\q1
-\v 8 Asa adalah bapak Yosafat.
-\q1 Yosafat adalah bapak Yoram.
-\q1 Yoram adalah bapak Uzia.
-\q1
-\v 9 Uzia adalah bapak Yotam.
-\q1 Yotam adalah bapak Ahas.
-\q1 Ahas adalah bapak Hiskia.
-\q1
-\v 10 Hiskia adalah bapak Manasye.
-\q1 Manasye adalah bapak Amon.
-\q1 Amon adalah bapak Yosia.
-\q1
-\v 11 Yosia adalah bapak Yekonya\f + \fr 1:11 \fk Yekhonya \ft Nama lainnya adalah Yoyakin.\f* dan saudara-saudaranya. Pada waktu itu banyak orang Yahudi dibawa sebagai tawanan perang ke negeri Babel.
-\q1
-\v 12 Waktu bangsa Yahudi masih tinggal sebagai tawanan perang di Babel:
-\q1 Yekonya adalah bapak Sealtiel.
-\q1 Sealtiel adalah bapak Zerubabel.
-\q1
-\v 13 Zerubabel adalah bapak Abihud.
-\q1 Abihud adalah bapak Elyakim.
-\q1 Elyakim adalah bapak Azor.
-\q1
-\v 14 Azor adalah bapak Zadok.
-\q1 Zadok adalah bapak Akim.
-\q1 Akim adalah bapak Eliud.
-\q1
-\v 15 Eliud adalah bapak Eleazar.
-\q1 Eleazar adalah bapak Matan.
-\q1 Matan adalah bapak Yakub.
-\q1
-\v 16 Yakub adalah bapak Yusuf.
-\q1 Yusuf adalah suami Maria,
-\q1 dan Maria adalah ibu Yesus, yang disebut Kristus.\f + \fr 1:16 \fk Kristus \ft adalah kata yang berasal dari bahasa Yunani yang artinya ‘yang diurapi’. Dalam bahasa Ibrani, istilah yang sama disebut ‘Mesias’. Istilah ini menunjukkan jabatan, seperti kata ‘camat’ atau ‘gubernur’. Pada jaman Perjanjian Lama setiap raja diurapi oleh nabi dengan minyak zaitun sebagai tanda dipilih dan disahkan oleh Allah. Dan setiap imam dan nabi jaman itu juga diurapi. Yesus pantas disebut ‘Yang Diurapi’ karena Dia mempunyai jabatan sebagai nabi, Raja Agung, dan Imam Agung kita (Ib. 4-10). Karena beberapa nubuatan dalam buku para nabi dan Mazmur, pada jaman Yesus secara umum orang Yahudi tahu arti dari ‘Kristus’ sebagai Raja Penyelamat yang Allah janjikan, yang akan berasal dari keturunan Raja Daud, dan yang akan membebaskan bangsa Israel dari orang-orang yang memusuhinya, mendirikan suatu pemerintahan dengan kuasa Allah, dan memerintah dengan adil. Lihat Yes. 9:5-6, Kej. 3:15; Ul. 18:18-19; Mik. 5:2; Zak. 12:10-14; Mal. 3:1; 4:5-6; Mzm. 2, 16, 22, 40, 110.\f*
+\p
+\v 2-6a Inilah garis keturunan-Nya dari Abraham sampai Raja Daud: Abraham, Isak, Yakub, Yehuda (dan saudara-saudaranya); lalu Peres (dan Zerah, melalui ibu mereka bernama Tamar), Hesron, Ram, Aminadab, Nahason, Salmon, Boas (yang ibunya adalah Rahab), Obed (yang ibunya adalah Rut), Isai, dan Raja Daud.
+\p
+\v 6b-11 Dari Daud sampai ketika banyak dari bangsa Israel dibawa sebagai tawanan perang ke negeri Babel, inilah garis keterunan Kristus Yesus: Daud, Salomo (melalui mantan istri Uria), Rehabeam, Abia, Asa, Yosafat, Yoram, Uzia, Yotam, Ahas, Hiskia, Manasye, Amon, Yosia, Yekonya\f + \fr 1:11 \fk Yekhonya \ft Nama lainnya adalah Yoyakin.\f* (dan saudara-saudaranya).
+\p
+\v 12-16 Dari waktu bangsa Yahudi masih tinggal sebagai tawanan perang di Babel sampai Kristus Yesus dilahirkan, inilah garis keterunan-Nya: Yekonya, Sealtiel, Zerubabel, Abihud, Elyakim, Azor, Zadok, Akim, Eliud, Eleazar, Matan, Yakub, Yusuf. Yusuf adalah suami Maria, dan Maria adalah ibu Yesus, yang disebut Kristus.\f + \fr 1:16 \fk Kristus \ft adalah kata yang berasal dari bahasa Yunani yang artinya ‘yang diurapi’. Dalam bahasa Ibrani, istilah yang sama disebut ‘Mesias’. Istilah ini menunjukkan jabatan, seperti kata ‘camat’ atau ‘gubernur’. Pada jaman Perjanjian Lama setiap raja diurapi oleh nabi dengan minyak zaitun sebagai tanda dipilih dan disahkan oleh Allah. Dan setiap imam dan nabi jaman itu juga diurapi. Yesus pantas disebut ‘Yang Diurapi’ karena Dia mempunyai jabatan sebagai nabi, Raja Agung, dan Imam Agung kita (Ib. 4-10). Karena beberapa nubuatan dalam buku para nabi dan Mazmur, pada jaman Yesus secara umum orang Yahudi tahu arti dari ‘Kristus’ sebagai Raja Penyelamat yang Allah janjikan, yang akan berasal dari keturunan Raja Daud, dan yang akan membebaskan bangsa Israel dari orang-orang yang memusuhinya, mendirikan suatu pemerintahan dengan kuasa Allah, dan memerintah dengan adil. Lihat Yes. 9:5-6, Kej. 3:15; Ul. 18:18-19; Mik. 5:2; Zak. 12:10-14; Mal. 3:1; 4:5-6; Mzm. 2, 16, 22, 40, 110.\f*
 \p
 \v 17 Jadi, ada empat belas keturunan dari Abraham sampai Daud. Dan empat belas keturunan dari Daud sampai waktu bangsa Yahudi dibawa ke Babel. Dan dari waktu bangsa Yahudi mulai tinggal di negeri Babel sampai Kristus dilahirkan juga empat belas keturunan.
 \s Kelahiran Kristus Yesus
