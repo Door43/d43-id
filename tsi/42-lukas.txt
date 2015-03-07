@@ -1,7 +1,7 @@
 ===== Lukas =====
 
 
-| **[[:id:tsi:42-lukas:01|1]]** | **[[:id:tsi:42-lukas:02|2]]** | **[[:id:tsi:42-lukas:03|3]]** | **[[:id:tsi:42-lukas:04|4]]** |
+| **[[:id:tsi:42-lukas:01|1]]** | **[[:id:tsi:42-lukas:02|2]]** | **[[:id:tsi:42-lukas:03.usfm|3]]** | **[[:id:tsi:42-lukas:04|4]]** |
 | **[[:id:tsi:42-lukas:05|5]]** | **[[:id:tsi:42-lukas:06|6]]** | **[[:id:tsi:42-lukas:07|7]]** | **[[:id:tsi:42-lukas:08|8]]** |
 | **[[:id:tsi:42-lukas:09|9]]** | **[[:id:tsi:42-lukas:10|10]]** | **[[:id:tsi:42-lukas:11|11]]** | **[[:id:tsi:42-lukas:12|12]]** |
 | **[[:id:tsi:42-lukas:13|13]]** | **[[:id:tsi:42-lukas:14|14]]** | **[[:id:tsi:42-lukas:15|15]]** | **[[:id:tsi:42-lukas:16|16]]** |
