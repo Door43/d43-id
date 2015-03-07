@@ -57,31 +57,21 @@
 \v 23 Yesus berumur tiga puluh tahun ketika Dia memulai pekerjaan-Nya. Orang-orang menyangka, Dia adalah anak Yusuf. Inilah para leluhur dari Yusuf, mulai dari bapaknya:\f + \fr 3:24-38 \fk daftar leluhur \ft Daftar ini diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama berikutnya adalah nama bapaknya. Jika diurutkan dari bawah, maka nama sebelumnya adalah nama anaknya.\f*
 \q1
 \v 24 Eli, kemudian Matat, Lewi, Malki, Yanai, Yusuf,
-\q1
 \v 25 Matica, Amos, Nahum, Hesli, Nagai,
-\q1
-\v 26 Maat, Matica, Simei, Yosekh, Yoda,
+\v 26 Maat, Matica, Simei, Yosekh, Yoda;
 \q1
 \v 27 Yohanan, Resa, Zerubabel, Sealtiel, Neri,
-\q1
 \v 28 Malkhi, Adi, Kosam, Elmadam, Er,
-\q1
-\v 29 Yesua, Eliezer, Yorim, Matat, Lewi,
+\v 29 Yesua, Eliezer, Yorim, Matat, Lewi;
 \q1
 \v 30 Simeon, Yehuda, Yusuf, Yonam, Elyakim,
-\q1
 \v 31 Melea, Mina, Matata, Natan, Daud,
-\q1
-\v 32 Isai, Obed, Boas, Salmon, Nahason,
+\v 32 Isai, Obed, Boas, Salmon, Nahason;
 \q1
 \v 33 Aminadab, Admin, Arni, Hezron, Peres, Yehuda,
-\q1
 \v 34 Yakub, Isak, Abraham, Terah, Nahor,
-\q1
-\v 35 Serug, Rehu, Peleg, Eber, Salmon,
+\v 35 Serug, Rehu, Peleg, Eber, Salmon;
 \q1
 \v 36 Kenan, Arpakhsad, Sem, Nuh, Lamekh,
-\q1
 \v 37 Metusalah, Henokh, Yared, Mahalaleel, Kenan,
-\q1
 \v 38 Enos, Set, Adam. Dan Adam adalah anak Allah.
