@@ -1,3 +1,5 @@
+\c 15
+\sl
 \b Mazmur yang ditulis oleh Daud
 \p
 \q1
@@ -6,7 +8,8 @@
 \q1 
 \v 2 Yang diperbolehkan adalah mereka yang selalu menegakkan kebenaran dan tidak berdosa.
 \q2 Mereka selalu menyatakan kebenaran
-\q1 3dan mereka tidak memfitnah orang lain.
+\q1 
+\v 3 dan mereka tidak memfitnah orang lain.
 \q2 Yang menyangkut orang lain, mereka tidak melakukan hal- hal yang menyimpang,
 dan tidak menyatakan hal-hal yang tidak benar. 
 \q1
