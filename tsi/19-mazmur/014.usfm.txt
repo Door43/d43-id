@@ -1,5 +1,5 @@
 \c 14
-\b
+\si
 \d Mazmur yang ditulis oleh Daud untuk pemimpin pujian
 \p
 \q1
