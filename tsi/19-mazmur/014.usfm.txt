@@ -3,7 +3,7 @@
 \d Mazmur yang ditulis oleh Daud untuk pemimpin pujian
 \p
 \q1
-\v 1Orang bodoh mengatakan kepada diri mereka sendiri, “Tiada Tuhan!”
+\v 1 Orang bodoh mengatakan kepada diri mereka sendiri, “Tiada Tuhan!”
 \q2 Orang-orang yang berkata demikian [tidak berharga//tiada harganya]; mereka melakukan hal-hal yang keji;
 \q2Tak satupun dari mereka yang melakukan hal-hal yang baik..
 \q1
