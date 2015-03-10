@@ -54,23 +54,9 @@
 \s Daftar para nenek moyang Yesus
 \r (Mat. 1:1-17)
 \p
-\v 23-24 Yesus berumur tiga puluh tahun ketika Dia memulai pekerjaan-Nya. Orang-orang menyangka, Dia adalah anak Yusuf. Inilah para nenek moyang Yesus, mulai dari Yusuf sampai ke Adam:\f + \fr 3:24-38 \fk daftar para leluhur \ft Daftar ini diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama berikutnya adalah nama bapaknya. Jika diurutkan dari bawah, maka nama sebelumnya adalah nama anaknya.\f*
-\q1 Bapaknya Yusuf adalah Eli, kemudian bapaknya Eli adalah Matat, Lewi, Malki, Yanai, Yusuf,
-\v 25 Matica, Amos, Nahum, Hesli, Nagai,
-\v 26 Maat, Matica, Simei, Yosek, Yoda;
-\q1
-\v 27 Yohanan, Resa, Zerubabel, Sealtiel, Neri,
-\v 28 Malki, Adi, Kosam, Elmadam, Er,
-\v 29 Yesua, Eliezer, Yorim, Matat, Lewi;
-\q1
-\v 30 Simeon, Yehuda, Yusuf, Yonam, Elyakim,
-\v 31 Melea, Mina, Matata, Natan, Daud,
-\v 32 Isai, Obed, Boas, Salmon, Nahason;
-\q1
-\v 33 Aminadab, Admin, Arni, Hesron, Peres, Yehuda,
-\v 34 Yakub, Isak, Abraham, Terah, Nahor,
-\v 35 Serug, Rehu, Peleg, Eber, Salmon;
-\q1
-\v 36 Kenan, Arpaksad, Sem, Nuh, Lamek,
-\v 37 Metusalah, Henok, Yared, Mahalaleel, Kenan,
-\v 38 Enos, Set, Adam. Dan Adam adalah anak Allah.
+\v 23-38 Yesus berumur tiga puluh tahun ketika Dia memulai pekerjaan-Nya. Menurut pikiran orang, Dia adalah anak Yusuf. Inilah para nenek moyang Yesus:\f + \fr 3:24-38 \fk daftar para nenek moyang Yesus \ft Daftar ini disusun sesuai cara yang biasa untuk orang Indonesia— yaitu memulai dari nenek moyang yang tertua kemudian keturunannya. Lukas menulis sebaliknya, memulai dari Yusuf dan mengakhiri dengan Adam. Daftar ini juga diberikan tanpa pengulangan setiap nama. Jika diurutkan dari atas, maka nama berikutnya adalah nama anaknya. Jika diurutkan dari bawah, maka nama sebelumnya adalah nama bapaknya.\f*
+\q1 (36-38) Allah menciptakan Adam, jadi boleh dikatakan bahwa Adam adalah anak Allah. Mulai dari manusia pertama Adam, kemudian Set, Enos, Kenan, Mahalaleel, Yared, Henok, Metusalah, Lamek, Nuh, Sem, Arpaksad, Kenan,
+\q1 (33-35) Salmon, Eber, Peleg, Rehu, Serug, Nahor, Terah, Abraham, Isak, Yakub, Yehuda, Peres, Hesron, Arni, Admin, Aminadab,
+\q1 (30-31) Nahason, Salmon, Boas, Obed, Isai, Daud, Natan, Matata, Mina, Melea, Elyakim, Yonam, Yusuf, Yehuda, Simeon,
+\q1 (27-29) Lewi, Matat, Yorim, Eliezer, Yesua, Er, Elmadam, Kosam, Adi, Malki, Neri, Sealtiel, Zerubabel, Resa, Yohanan,
+\q1 (24-26) Yoda, Yosek, Simei, Matica, Maat, Nagai, Hesli, Nahum, Amos, Matica, Yusuf, Yanai, Malki, Lewi, Matat, Eli, dan Yusuf.
