@@ -8,6 +8,8 @@ Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab 
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang terbuka (id)</font>
 
+Untuk melihat cerita-cerita Alkitab yang bebas dipakai (tidak terkurung dengan copyright) men-klik [[:id:obs]].
+
 Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Terjemahan Sederhana Indonesia. Kalau Anda ingin tergabung dengan Tim BahasaKita— baik secara informal atau sebagai anggota tim, silakan hubungi tim.kita@bahasakita.net.
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia</font>
