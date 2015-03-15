@@ -1,6 +1,6 @@
 ===== Daniel =====
 
 
-|**[[:id:tsi:27-daniel:01.usfm|1]]**  |**[[:id:tsi:27-daniel:02|2]]**  |**[[:id:tsi:27-daniel:03|3]]**  |**[[:id:tsi:27-daniel:04|4]]**  |
-|**[[:id:tsi:27-daniel:05|5]]**  |**[[:id:tsi:27-daniel:06|6]]**  |**[[:id:tsi:27-daniel:07|7]]**  |**[[:id:tsi:27-daniel:08|8]]**  |
-|**[[:id:tsi:27-daniel:09|9]]**  |**[[:id:tsi:27-daniel:10|10]]**  |**[[:id:tsi:27-daniel:11|11]]**  |**[[:id:tsi:27-daniel:12|12]]**  |
+|**[[:id:tsi:27-daniel:01.usfm|1]]**  |**[[:id:tsi:27-daniel:02.usfm|2]]**  |**[[:id:tsi:27-daniel:03.usfm|3]]**  |**[[:id:tsi:27-daniel:04.usfm|4]]**  |
+|**[[:id:tsi:27-daniel:05.usfm|5]]**  |**[[:id:tsi:27-daniel:06.usfm|6]]**  |**[[:id:tsi:27-daniel:07.usfm|7]]**  |**[[:id:tsi:27-daniel:08.usfm|8]]**  |
+|**[[:id:tsi:27-daniel:09.usfm|9]]**  |**[[:id:tsi:27-daniel:10.usfm|10]]**  |**[[:id:tsi:27-daniel:11.usfm|11]]**  |**[[:id:tsi:27-daniel:12.usfm|12]]**  |
