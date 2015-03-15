@@ -55,7 +55,6 @@
 \q1
 \v 11 Orang-orang yang hidup benar selalu memberkati kota mereka, 
 \q2 tetapi perkataan orang-orang jahat menghancurkan kota mereka.
-\p
 \b
 \q1
 \v 12 Untuk menghina orang lain adalah hal yang bodoh.
@@ -65,32 +64,26 @@
 \q1
 \v 13 Jangan percayakan rahasia pribadi kepada orang yang suka membicarakan orang lain.
 \q2 Hanya orang yang dapat dipercaya, setia menyimpan rahasia temannya.
-\p
 \b
 \q1
 \v 14 Orang akan hilang arah dan jatuh tanpa bimbingan dan arahan, 
 \q2 tetapi orang akan selamat dan mencapai tujuan dengan mendengarkan nasehat.
-\p
 \b
 \q1
 \v 15 Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri;
 \q2 orang yang tidak melibatkan diri akan terhindar dari masalah.
-\p
 \b
 \q1
 \v 16 Perempuan yang berbaik hati dan berbudi dihormati, 
 \q2 tetapi laki-laki yang kejam merampas kekayaan.
-\p
 \b
 \q1
 \v 17 Orang yang bermurah hati membawa keuntungan bagi dirinya, 
 \q2 tetapi orang kejam mendatangkan malapetaka bagi dirinya sendiri.
-\p
 \b
 \q1
 \v 18 [Orang jahat bisa mendapat keuntungan yang sangat besar//Keuntungan orang jahat bisa menjadi besar sekali], tetapi keuntungannya itu bagaikan penipuan saja, karena cepat hilang.
 \q2 Tetapi kalau kamu tetap membuat yang benar, seperti petani yang menabur bibit yang baik, kamu juga akan menuai hasil yang baik.
-\p
 \b
 \q1
 \v 19 Orang benar yang tulus hati menuju kehidupan,  
@@ -99,7 +92,6 @@
 \q1
 \v 20 Orang yang hatinya jahat dibenci oleh Tuhan,
 \q2  tetapi orang yang [menjalankan hidup yang//jalan hidupnya] benar disukai-Nya.
-\p
 \b
 \q1
 \v 21 Yakinlah akan hal ini: Orang yang jahat pasti akan mendapat hukuman dari Tuhan,
