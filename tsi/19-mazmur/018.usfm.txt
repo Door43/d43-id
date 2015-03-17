@@ -3,7 +3,7 @@
 \b Sebuah mazmur yang ditulis oleh Daud yang dia nyanyikan setelah ALLAH menyelamatkannya dari Saul dan musuh-musuhnya yang lain. 
 \p
 \q1
-\v 1  Aku mengasihi-MU, ya ALLAH yang membuatku teguh.
+\v 1 Aku mengasihi-MU, ya ALLAH yang membuatku teguh.
 \p
 \q1
 \v 2 Engkau adalah perlindunganku dari musuh-musuhku bagaikan sebuah benteng yang kokoh.
@@ -26,7 +26,7 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \v 7 Karena kemarahan ALLAH, bumipun bergoncang dengan keras dan dari inti bumi, 
 \q2 gunung-gunungpun gementar.
 \q1
-\v 8 AsapSalam.. Saya sudah m seolah-olah menyembur dari hidung-Nya 
+\v 8 Asap seolah-olah menyembur dari hidung-Nya 
 \q2 dan bara yang panas terbakar keluar dari mulut-Nya.
 \q1
 \v 9 Dia membuka langit, lalu turun dengan awan hitam di bawah telapak kaki-Nya.
@@ -88,7 +88,7 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \v 28 Engkau menyinari jiwaku;
 \q2 Engkau mengangkat kegelapan dalam jiwaku.
 \q1 
-\v 29 Engkau menyanggupiku untuk kuat,
+\v 29 Engkau menyanggupiku untuk kuat,
 \q2 aku dapat maju dan menyerang garis depan tentara musuh;
 \q1 atas pertolonganMu aku dapat [menghadapi musuh//menyerang musuh]
 \q2 dengan pertolonganMu aku dapat menyusup masuk ke wilayah musuh//aku dapat memanjat tembok yang mengelilingi kota musuh.
@@ -96,22 +96,25 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \v 30 Segala sesuatu yang ALLAH lakukan itu sempurna, Tuhan selalu menepati janji-janjinya.
 \q2 Dia bagaikan perisai untuk melindungi semua yang datang berlindung kepada-Nya.
 \q1
-\v 31 Siapakah ALLAH selain Tuhan?;
-\q2 hanya Dia yang merupakan gunung batu tempat kita berlindung.Y
-32 God is the one who enables me to be strong
-and who keeps me safe on the roads that I walk on.
-33 He enables me to walk swiftly without stumbling,
-like a deer walks/runs in the mountains.
-34 He teaches me how to use a strong/metal bow
-in order that I can use it to fight in battles.
- 
-35 Yahweh, you protect and save me with your shield;
-you have made me safe by your power [MTY].
-I have become ◄strong/a great king► because you have helped me.
-36 You have made a wide path for me,
-with the result that now I do not slip/stumble.
- 
-37 I have pursued my enemies and caught them;
+\v 31 Siapakah ALLAH selain Tuhan;
+\q2 Hanya Dia yang merupakan gunung batu tempat kita berlindung.
+\v 32 Hanya Tuhan yang membuat aku mampu untuk kuat
+\q2 dan Dialah yang melindungiku pada setiap langkah jalanku.
+\q1
+\v 33 Dia menguatkan kakiku untuk dapat berjalan dengan cepat tanpa tersandung
+\q2 bagaikan rusa yang berjalan di daerah pegunungan.
+\q1
+\v 34 Dia mengajariku mengunakan busur panah yang kuat
+\q2 agar aku dapat bertarung dalam perang.
+\q1
+\v 35 ALLAH, Engkau melindungi dan menyelamatkanku dengan perisaimu;
+\q2 dengan kuasa-Mu Engkau membuat aku aman.
+Aku telah menjadi kuat karena pertolongan-Mu.
+\q1
+\v36 Engkau telah membuat jalan yang lebar bagiku,
+\q2 agar aku tidak jatuh/tersandung.
+\q1
+\v 37 I have pursued my enemies and caught them;
 I did not stop until I had defeated/killed them all.
 38 When I strike them, they are not able to get up again;
 they lie on the ground, defeated.
