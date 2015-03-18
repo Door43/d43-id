@@ -6,30 +6,30 @@
 \v 1 Aku mengasihi-MU, ya ALLAH yang membuatku teguh.
 \p
 \q1
-\v 2 Engkau adalah perlindunganku dari musuh-musuhku bagaikan sebuah benteng yang kokoh.
+\v 2 Bagaikan sebuah benteng yang kokoh, Engkau melindunganku dari musuh-musuhku.
 \ q1 Seperti seorang prajurit menggunakan perisai, Allah melindungiku;
 \q2 kepada Dialah aku mengamankan diri,
-dan Dia membelaku dengan kekuatan-Nya yang luar biasa.
+dan Dia membelaku dengan kekuatan-Nya yang dahsyat.
 \q1
-\v 3 Aku berseru kepada ALLAH, yang layak [dipuji/menerima pujian], dan Dialah yang menyelematkanku dari musuh-musuhku.
+\v 3 Aku berseru kepada ALLAH, yang layak [dipuji/menerima pujian], dan Dialah yang menyelamatkanku dari musuh-musuhku.
 \p
-\v 4 Di sekelilingku terdapat berbagai keadaan yang membahayakan nyawaku;
-\q2 bagaikan hantaman ombak yang menyeretku dan menenggelamkanku.
 \q1
-\v 5  Seolah-olah di tempat orang mati ada tali yang mengikatku, 
+\v 4 Di sekelilingku terdapat berbagai keadaan yang membahayakan nyawaku;
+\q2 bagaikan hantaman ombak yang menyeret dan menenggelamkanku.
+\q1
+\v 5 Di tempat orang mati ada tali yang mengikatku, 
 \q2 bagaikan jebakan yang akan menangkap dan membunuhku.
 \q 1
-\v 6  Tetapi ketika aku tertekan, aku berseru kepada ALLAH,
-dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteriak minta tolong.
+\v 6 Tetapi ketika aku tertekan, aku berseru kepada ALLAH,
+dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berseru minta tolong.
  \p
 \q1
-\v 7 Karena kemarahan ALLAH, bumipun bergoncang dengan keras dan dari inti bumi, 
-\q2 gunung-gunungpun gementar.
+\v 7 Karena kemarahan ALLAH, bumipun bergoncang dengan keras dan dari inti bumi, gunung-gunungpun gementar.
 \q1
 \v 8 Asap seolah-olah menyembur dari hidung-Nya 
 \q2 dan bara yang panas terbakar keluar dari mulut-Nya.
 \q1
-\v 9 Dia membuka langit, lalu turun dengan awan hitam di bawah telapak kaki-Nya.
+\v 9 Dia membuka langit, dan turun dengan awan hitam di bawah telapak kaki-Nya.
 \q1
 \v 10 Dengan menumpangi mahluk bersayap Dia terbang;
 \q2 dan melayang di atas sayap angin.
@@ -37,13 +37,13 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \ v 11 Kegelapan menyelemutinya;
 \q2 awan gelap menyelubungkannya.
 \q1
-\v12 ALLAH dikelilingi hujan es dan kilat petir terpancar disekitar-Nya;
+\v 12 ALLAH dikelilingi hujan es dan kilat petir terpancar disekitar-Nya;
 \q2 hujan es dan bara api berjatuhan dari langit.
 \q1
 \v 13 Suara ALLAH lantang bergema membahana dari langit,
 \q2 dan musuh-musuhnya mendengarkan suara-Nya bagaikan guntur.
 \v 14 Dia menembaki mereka dengan panah-panahnya dan merekapun berserak-serak tidak keruan;
-\q2 Musuh-musuhnya itu melarikan diri karena sambar kilat-Nya. 
+\q2 Musuh-musuhnya itu melarikan diri karena tersambar kilat-Nya. 
 \q1
 \v 15 [Dasar laut menjadi nampak dan dasar bumi terbongkar 
 \q2 ketika ALLAH menegur musuh-musuhnya dengan nafas-Nya.//
@@ -61,7 +61,7 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \v 19 Dia menuntunku ke tempat yang aman;
 \q2 Dia menyelamatkanku karena aku menyenangkan hati-Nya.
 \q1
-\v 20 ALLAH menganugerahkanku karena aku melakukan hal-hal yang benar;
+\v 20 ALLAH menganugerahiku karena aku melakukan hal-hal yang benar;
 \q2 Dia memberkatiku karena aku tidak bersalah.
 \q1
 \v 21 Aku telah mematuhi peraturan-peraturan ALLAH;
@@ -70,13 +70,13 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \v 22 Tingkah lakuku di atur oleh peraturan-Nya;
 \q2 aku senantiasa menaati peraturan-Nya. 
 \q1
-\v 23 Dia ketahui bila aku tidak melakukan kesalahan;
+\v 23 Dia tahu bila aku tidak melakukan kesalahan;
 \q2 aku telah menjaga diri agar tidak berdosa.
 \q1
 \v 24 Untuk itu dia menganugerahiku karena aku telah melakukan hal yang benar;
-\q2 Dia ketahui bahwa aku tidak berdosa.
+\q2 Dia tahu bahwa aku tidak berdosa.
 \q1 
-\v 25 ALLAH, Engkau setia bagi mereka yang dengan setia melakukan perintah-Mu;
+\v 25 ALLAH, Engkau setia bagi mereka yang dengan tekun melakukan perintah-Mu;
 \q2 Engkau senantiasa melakukan hal yang baik bagi mereka yang patuh pada Engkau.
 \q1
 \v 26 Engkau berbaik hati kepada mereka yang berlaku baik kepada orang lain,
@@ -94,39 +94,34 @@ dan dari baitnya Dia mendengarkanku.  Dia membuka telinganya ketika aku berteria
 \q2 dengan pertolonganMu aku dapat menyusup masuk ke wilayah musuh//aku dapat memanjat tembok yang mengelilingi kota musuh.
 \q1
 \v 30 Segala sesuatu yang ALLAH lakukan itu sempurna, Tuhan selalu menepati janji-janjinya.
-\q2 Dia bagaikan perisai untuk melindungi semua yang datang berlindung kepada-Nya.
+\q2 Dia bagaikan perisai yang melindungi semua yang datang berlindung kepada-Nya.
 \q1
 \v 31 Siapakah ALLAH selain Tuhan;
-\q2 Hanya Dia yang merupakan gunung batu tempat kita berlindung.
+\q2 Hanya Dia yang merupakan gunung batu, tempat kita berlindung.
 \v 32 Hanya Tuhan yang membuat aku mampu untuk kuat
 \q2 dan Dialah yang melindungiku pada setiap langkah jalanku.
 \q1
-\v 33 Dia menguatkan kakiku untuk dapat berjalan dengan cepat tanpa tersandung
+\v 33 Dia menguatkan kakiku untuk dapat berjalan dengan pasti tanpa tersandung
 \q2 bagaikan rusa yang berjalan di daerah pegunungan.
 \q1
 \v 34 Dia mengajariku mengunakan busur panah yang kuat
 \q2 agar aku dapat bertarung dalam perang.
 \q1
-\v 35 ALLAH, Engkau melindungi dan menyelamatkanku dengan perisaimu;
+\v 35 ALLAH, dengan perisaimu Engkau melindungi dan menyelamatkanku;
 \q2 dengan kuasa-Mu Engkau membuat aku aman.
-[Atas pertolongan-Mu, aku menjadi kuat.//Aku kuat karena pertolongan-Mu].
+Aku kuat karena pertolongan-Mu.
 \q1
-\v36 Engkau telah membuka jalan yang [lebar//luas] bagiku,
-\q2 agar aku tidak [jatuh//tersandung]. [Aku tidak tersandung dan jatuh karena Engkau telah membuka jalan bagiku]
+\v36 Aku tidak tersandung dan jatuh 
+\q2 karena Engkau telah membuka jalan bagiku]
 \q1
 \v 37 Aku telah mengejar dan menangkap musuh-musuhku;
 \q2 Setelah aku menumpas mereka semua, barulah aku berhenti.
-I have pursued my enemies and caught them;
-I did not stop until I had defeated/killed them all.
 \q1
-\v 38 Ketika aku menyerang, mereka tidak akan mampu untuk berdiri;When I strike them, they are not able to get up again;
+\v 38 Ketika aku menyerang, mereka tidak akan mampu untuk berdiri;
 \q2 mereka terbaring berserakan,karena telah dikalahkan.
-they lie on the ground, defeated.
 \q1
 \v 39 Engkau telah menguatkanku 
 \q2 agar aku dapat bertarung dalam peperangan dan mengalahkan musuh-musuhku.
-You have enabled me to be strong
-in order that I can fight battles and defeat my enemies.
 \q1
 \v 40 Engkau memampukanku untuk memberantas musuh-musuhku.
 \q2 Aku telah menlenyapkan semua yang membenciku.
@@ -134,31 +129,33 @@ in order that I can fight battles and defeat my enemies.
 \v 41  Mereka berteriak minta tolong,
 \q2 tetapi tidak ada yang membantu mereka.
 \q1
-\v 42 Aku telah menghancurleburkan mereka,
-hingga mereka bagaikan debu yang ditiup angin'
+\v 42 Mereka telah dihancurleburkan olehku,
+bagaikan debu yang ditiup angin.
 \q2 Mereka terbuang ke jalanan bagaikan [kotoran//tanah].
-with the result that they become like [MET] the dust that the wind blows away;
-I throw them out like [SIM] people throw dirt out into the streets.
 \q1
 \v 43 Engkau memampukanku untuk mengalahkan mereka yang berperang melawanku,
 \q2 dan mengangkatku untuk memimpin berbagai bangsa;
-orang-orang yang aku tidak ketahui sebelumnya sekarang menjadi budak dalam kerajaanku.
-people whom I did not know about previously are now slaves in my kingdom.
+orang-orang yang aku tidak tahu sebelumnya sekarang menjadi budak dalam kerajaanku.
 \q1
-\v 44 Ketika orang-orang pendatang mendengar tentang aku,
-\q3 mereka menunduk dihadapanku 
-When foreigners hear about me,
-they ◄cringe/bow low before me► and they obey me.
-45 They are no longer courageous,
-and from their forts where they were hiding they come to me trembling.
- 
-46 Yahweh is alive!
-Praise the one who is like a huge rock [MET] under which I am safe!
-Exalt the God who saves me!
-47 He enables me to get revenge on my enemies;
-he causes me to defeat nations and to rule over them,
-48 and he rescues me from my enemies.
-He has lifted me up high so that violent men could not reach me and harm me.
-49 So I praise him and I tell the nations the great things that he has done.
-50 He has enabled me, his king, to powerfully defeat my enemies;
-he faithfully loves me, David, the one he has chosen to be king, and he will faithfully love my descendants forever.
+\v 44 Ketika orang-orang pendatang mendengar tentangku,
+\q2 mereka menunduk dan taat dihadapanku.
+\q1
+\q1 
+\v 45 Keberanian mereka sudah tidak nampak,
+\q2 Dan mereka sambil gemetaran keluar dari tempat persembunyian di belakang benteng-benteng mereka.
+\q1
+\v 46 ALLAH hidup!
+\q2 Pujilah Dia yang adalah tempatku berlindung bagaikan gunung batu!
+Tinggikan Tuhan yang menyelamatkanku!
+\q1
+\v 47 Dia memperbolehkanku membalas dendam pada musuh-musuhku;
+\q2 Dialah penyebab aku mengalahkan dan memerintah bangsa-bangsa;
+\q1 
+\v 48 dan Dia menyelamatkanku dari musuh-musuhku. and he rescues me from my enemies.
+\q2 Dengan tinggi Dia mengangkatku agar orang-orang kejam tidak dapat menyentuh dan menyusahkanku.
+\q1
+\v 49 Untuk itu aku memuji-Nya dan memberitakan semua hal besar yang telah Dia lakukan kepada bangsa-bangsa.
+\q1
+\v 50 [Sebagai raja yang dipilih dan dengan penuh kuasa, Dia memperbolehkanku mengalahkan musuh-musuku.//Dia memperbolehkanku, raja yang dipilih-Nya untuk dengan penuh kuasa, mengalahkan musuh-musuhku]
+\q2 Dengan setia dia mengasihi aku- Daud, yang telah Dia pilih menjadi raja, 
+dan dengan setia Dia akan mengasihi keturunanku untuk selama-lamanya.
