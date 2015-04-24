@@ -1,7 +1,7 @@
 \c 1
 \s1 Elimelek memindahkan keluarganya ke negeri Moab
 \p
-\v 1-2 Pada jaman para hakim memerintah Israel, bencana kelaparan melanda seluruh daerah itu. Lalu seorang laki-laki bernama Elimelek berpindah dari kampung halamannya— yaitu Betlehem di wilayah Yehuda, ke salah satu daerah di negeri Moab bersama dengan isterinya dan kedua anak laki-laki mereka. Isterinya bernama Naomi. Kedua anak mereka bernama Mahlon dan Kilyon. Mereka berasal dari suku Efrata yang tinggal di kota kecil Betlehem di wilayah Yehuda. Mereka berencana menetap sementara waktu di daerah Moab.
+\v 1-2 Pada jaman para hakim memerintah Israel, bencana kelaparan melanda seluruh daerah itu. Lalu seorang laki-laki bernama Elimelek pindah dari kampung halamannya— yaitu Betlehem di wilayah Yehuda, ke salah satu daerah di negeri Moab bersama dengan isterinya dan kedua anak laki-laki mereka. Isterinya bernama Naomi. Kedua anak mereka bernama Mahlon dan Kilyon. Mereka berasal dari suku Efrata yang tinggal di kota kecil Betlehem di wilayah Yehuda. Mereka berencana menetap sementara waktu di daerah Moab.
 \p
 \v 3 Kemudian Elimelek meninggal dunia, meninggalkan Naomi dan kedua anak laki-lakinya.
 \v 4 Lalu kedua anaknya menikah dengan dua perempuan yang berasal dari Moab. Nama kedua perempuan itu adalah Rut dan Orpa.\f + \fr 1:4 \fk Rut dan Orpa \ft Secara harfiah, “Orpa dan Rut.” Urutan diubah di sini karena Rut 4:10 menyatakan bahwa Rut adalah isteri Mahlon. Tim penerjemah TSI menganggap Mahlon sebagai anak tertua dari Elimelek karena urutan nama yang dua kali disebut dalam pasal 1 (ayat 2 dan 5). Tetapi hal ini tidak bisa dibuktikan. Lihat juga catatan di Rut 4:9.\f* Tetapi kurang lebih sepuluh tahun kemudian,
@@ -15,8 +15,7 @@
 \p
 \v 10 Orpa dan Rut berkata, “Tidak! Kami akan ikut bersamamu kembali kepada keluargamu.”
 \p
-\v 11 Tetapi Naomi menjawab, “Mengapa kalian mau pulang bersamaku? Tidak mungkin aku melahirkan lagi dua anak laki-laki untuk menggantikan suamimu yang sudah meninggal!
-\v 12-13 Pulanglah ke rumah orang tuamu masing-masing, karena aku sudah terlalu tua untuk menikah lagi dan melahirkan dua anak laki-laki untuk menggantikan suami kalian. Percuma saja kalau mengharapkanku untuk melahirkan anak sebagai pengganti suami kalian! Sekalipun malam ini aku menikah dengan suami baru, tidak mungkin aku melahirkan lagi! Lebih baik keluargamu mencari suami baru daripada kalian tetap menderita bersamaku dalam keadaan yang sangat sulit dan pahit, karena ternyata ALLAH sudah meninggalkanku!”
+\v 11-13 Tetapi Naomi menjawab, “Mengapa kalian mau pulang bersamaku? Pulanglah ke rumah orang tua kalian. Tidak mungkin aku melahirkan lagi dua anak laki-laki untuk menggantikan suami kalian yang sudah meninggal, karena aku sudah terlalu tua untuk menikah. Percuma saja kalau mengharapkanku untuk melahirkan pengganti suami kalian! Sekalipun malam ini aku menikah dengan suami baru, tidak mungkin aku melahirkan lagi! Lebih baik keluarga kalian mencari suami baru daripada kalian tetap menderita bersamaku dalam keadaan yang sangat sulit dan pahit, karena ternyata ALLAH sudah meninggalkanku!”
 \p
 \v 14 Mereka pun menangis lagi dengan suara keras, lalu Orpa mencium mertuannya, minta pamit, dan pulang ke kampung halamannya. Sedangkan Rut tetap memeluk ibu mertuanya itu.
 \v 15 Kata Naomi kepadanya, “Lihatlah, Orpa sudah pulang kepada keluarganya dan akan kembali menyembah berhala-berhalanya. Kamu pun harus demikian.”
@@ -34,11 +33,11 @@
 \p
 \v 18 Karena Naomi melihat bahwa Rut tetap bertekad tidak mau mengubah keputusan untuk ikut bersamanya, maka dia berhenti menyuruhnya untuk pergi.
 \p
-\v 19 Lalu mereka berdua melanjutkan perjalanan mereka. Ketika mereka tiba di Betlehem, seluruh penduduk menjadi kaget. Perempuan-perempuan bertanya “Benarkah dia ini Naomi?!”
+\v 19 Lalu mereka berdua melanjutkan perjalanan mereka. Ketika mereka tiba di Betlehem, seluruh penduduk ramai [membicarakan kedatangan mereka//menjadi gempar]. Kaum perempuan bertanya “Benarkah dia ini Naomi?!”
 \p
 \v 20 Naomi menjawab mereka “Jangan panggil saya Naomi, tetapi panggilah saya Pahit,\f + \fr 1:20 \fk Arti nama Naomi\ft Nama Naomi artinya ‘bahagia’ atau ‘menyenangkan’. Untuk nama 'Pahit', sebenarnya Naomi berkata ‘Mara’. Selain arti ‘pahit’, dalam bahasa Ibrani ‘mara’ juga bisa diartikan ‘menyedihkan’.\f* karena Yang Mahakuasa sudah membuat hidup saya sangat pahit.”
-\v 21 Ketika saya pergi dari tempat ini, saya puas dengan apa yang saya miliki. Tetapi sekarang Tuhan membawa saya pulang dengan tangan kosong. Jadi untuk apa kalian memanggil saya dengan nama yang pertama itu?— karena ALLAH yang Mahakuasa sendiri sudah memberikan kesusahan pada saya\f + \fr 1:21 \fk sudah menimpakan kesengsaraan … \ft Kata-kata ini bisa juga diterjemahkan “sudah bersaksi melawan saya.”\f* dan membuat hidup saya sangat susah!
+\v 21 Ketika aku pergi dari tempat ini, aku puas dengan apa yang aku miliki. Tetapi sekarang Tuhan membawa aku pulang dengan tangan kosong. Jadi untuk apa kalian menyapaku dengan namaku yang pertama itu?— karena ALLAH yang Mahakuasa sendiri sudah memberikan kesusahan padaku\f + \fr 1:21 \fk sudah menimpakan kesengsaraan … \ft Kata-kata ini bisa juga diterjemahkan “sudah bersaksi melawan saya.”\f* dan membuat hidupku sangat susah!
 \p
-\v 22 Demikianlah kisah kepulangan Naomi dari wilayah Moab bersama Rut menantunya yang berasal dari Moab. Mereka tiba di Betlehem pada awal musim panen jelai.\f + \fr 1:22 \fk jelai \ft Jelai juga bisa dibandingkan dengan padi atau gandum. Batangnya tinggi seperti batang padi dan biji-bijinya bertumbuh dalam bulir. Biji jelai kecil, bulat, dan berwarna coklat tua. Jelai sering dipakai sebagai makanan ternak. Jelai juga digiling menjadi tepung kasar, dan dibakar menjadi roti kasar. Roti jelai biasanya hanya dimakan oleh orang miskin.\f*
+\v 22 Demikianlah kisah kepulangan Naomi dari wilayah Moab bersama Rut menantunya yang berasal dari Moab. Mereka tiba di Betlehem pada awal musim panen jelai.\f + \fr 1:22 \fk jelai \ft Jelai dapat dibandingkan dengan padi. Batangnya tinggi seperti batang padi dan biji-bijinya bertumbuh dalam bulir. Biji jelai kecil, bulat, dan berwarna coklat tua. Jelai sering dipakai sebagai makanan ternak. Jelai juga digiling menjadi tepung kasar, dan dibakar menjadi roti kasar. Roti jelai biasanya hanya dimakan oleh orang miskin.\f*
 
 ~~DISCUSSIONS:on~~
