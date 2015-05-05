@@ -1,5 +1,13 @@
 ====== Door43 (id) ======
 
+==== Links to pages to be translated ====
+PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
+
+[[id:ta]]
+[[id:legal:license]]
+[[id:translation-guidelines]]
+----
+
 To see the list of OBS stories in Indonesian click [[:id:obs]].
 
 For help, in English, please click [[:en:obs:help]]. 
