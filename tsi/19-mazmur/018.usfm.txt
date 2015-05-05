@@ -1,6 +1,6 @@
 \c18
 \sl
-\b Sebuah mazmur yang ditulis oleh Daud yang dia nyanyikan [pada hari//setelah] [dia diselamatkan oleh ALLAH//ALLAH menyelamatkannya] dari Saul dan musuh-musuhnya yang lain. 
+\b Sebuah mazmur yang ditulis oleh Daud yang dinyanyikannya setelah dia diselamatkan oleh ALLAH dari Saul dan musuh-musuhnya yang lain. 
 \p
 \b
 \q1
@@ -10,21 +10,21 @@
 \q1
 \v 2 Bagaikan sebuah benteng yang kokoh, Engkau melindungi aku dari musuh-musuhku.
 \q1 Seperti seorang prajurit menggunakan perisai, Allah melindungiku;
-\q2 kepada-Nya, aku mengamankan diri,
+\q2 aku berlari kepada-Nya untuk mengamankan diri,
 dan Dia membelaku dengan kekuatan-Nya yang dahsyat.
 \p
 \b
 \q1
-\v 3 Aku berseru kepada ALLAH, yang layak [dipuji/menerima pujian], 
-\q2 dan Dialah yang menyelamatkanku dari musuh-musuhku.
+\v 3 Ketika Aku berseru kepada ALLAH, Dia menyelamatkanku dari musuh-musuhku.
+\q2 Dia layak menerima pujian.
 \q1
 \v 4 Di sekelilingku terdapat berbagai keadaan yang membahayakan nyawaku—
 \q2 bagaikan hantaman ombak yang menyeret dan menenggelamkanku.
 \q1
-\v 5 Di tempat orang mati ada tali yang mengikatku, 
+\v 5 Seolah-olah tali kematian melilitku, 
 \q2 bagaikan jebakan yang akan menangkap dan membunuhku.
 \q1
-\v 6 Tetapi ketika aku tertekan, aku berseru kepada ALLAH,
+\v 6 Ketika aku hampir putus asa karena bahaya, aku berseru kepada ALLAH,
 dan dari baitnya Dia mendengarkanku.  
 \q2 Dia membuka telinganya ketika aku berseru minta tolong.
 \p
@@ -33,8 +33,8 @@ dan dari baitnya Dia mendengarkanku.
 \v 7 Karena kemarahan ALLAH, bumi pun bergoncang dengan keras 
 \q2 dan dari inti bumi, gunung-gunung pun gementar.
 \q1
-\v 8 Asap seolah-olah menyembur dari hidung-Nya 
-\q2 dan bara yang panas terbakar keluar dari mulut-Nya.
+\v 8 Asap menyembur dari hidung-Nya 
+\q2 dan bara panas terbakar keluar dari mulut-Nya.\f + \fr 18:8-15 \fk hidung … mulut \ft Allah adalah roh, walaupun di beberapa tempat di Alkitab Dia memperlihatkan diri kepada manusia dengan wujud seperti memiliki tubuh jasmani. Perlu diingat bahwa di ayat 8-15, Daud menulis memakai bahasa kiasan dan puitis. Lebih baik kita tidak menganggap bahwa Daud melihat Allah membuat hal-hal yang diceritakan dalam ayat-ayat ini. Sebenarnya Daud menggunakan bahasa dramatis untuk menceritakan apa yang dia rasakan pada waktu tiba-tiba dia diselamatkan oleh Allah dengan kuasa yang luar biasa.\f*
 \q1
 \v 9 Dia membuka langit, dan turun dengan awan hitam di bawah telapak kaki-Nya.
 \q1
