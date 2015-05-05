@@ -1,6 +1,6 @@
 \c18
 \sl
-\b Sebuah mazmur yang ditulis oleh Daud yang dinyanyikannya setelah dia diselamatkan oleh ALLAH dari Saul dan musuh-musuhnya yang lain. 
+\b Mazmur yang ditulis dan dinyanyikan Daud setelah Allah menyelematkan dia dari Saul dan musuh-musuhnya yang lain. 
 \p
 \b
 \q1
@@ -58,7 +58,6 @@ dan dari baitnya Dia mendengarkanku.
 \q1 Dengan nafas-Nya ALLAH memarahi musuh-musuh-Nya 
 \q2 sehingga dasar lautpun menjadi nampak dan dasar bumi terbongkar].
 \p
-\b
 \q1
 \v 16 Seolah-olah jangkauan Tuhan turun dari surga untuk merebut dan menarik aku dari samudera yang dalam.
 \q1
