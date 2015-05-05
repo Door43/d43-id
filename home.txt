@@ -3,8 +3,8 @@
 ==== Links to pages to be translated ====
 PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
 
-[[id:ta]]
-[[id:legal:license]]
+[[id:ta]]\\
+[[id:legal:license]]\\
 [[id:translation-guidelines]]
 ----
 
