@@ -1,6 +1,6 @@
 \c 17
 \sl
-\b Mazmur yang ditulis oleh Daud
+\d Mazmur yang ditulis oleh Daud
 \p
 \q1
 \v 1 TUHAN, dengarkanlah aku ketika memohon pada-Mu untuk bertindak.
