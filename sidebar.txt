@@ -6,23 +6,24 @@
 
 <font 16px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>Cerita-cerita Alkitab yang terbuka (id)
 
-  * [[:id:obs|CAT]]</font>
+     [[:id:obs|CAYT]]</font>
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia
 
-  * [[:id:tsi|TSI]]</font>
+     [[:id:tsi|TSI]]</font>
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;#008000;;inherit>Terjemahan Sederhana Indonesia Timur
 
-  * [[:id:tsit|TSIT]]</font>
+     [[:id:tsit|TSIT]]</font>
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;#800080;;inherit>Plain English Translation
 
-  * [[:en:pet|PET]]</font>
+     [[:en:pet|PET]]</font>
 
 **Downloads**
 
-Semua teks Door43 dalam bahasa Indonesia dapat diunduh di [[https://github.com/Door43/d43-id|d43-id repository]]. Untuk mengunduh dalam bentuk ZIP, men-klik [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
+Semua teks Door43 dalam bahasa Indonesia dapat diunduh di [[https://github.com/Door43/d43-id|d43-id repository]]. 
+Untuk mengunduh dalam bentuk ZIP, men-klik [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
 
 **Perubahan terbaru**
 
