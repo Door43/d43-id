@@ -12,19 +12,19 @@
 
   * [[:id:tsi|TSI]]</font>
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008000;;inherit>Terjemahan Sederhana Indonesia Timur</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#008000;;inherit>Terjemahan Sederhana Indonesia Timur
 
-  * [[:id:tsit|TSIT]]
+  * [[:id:tsit|TSIT]]</font>
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;#800080;;inherit>Plain English Translation</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;#800080;;inherit>Plain English Translation
 
-  * [[:en:pet|PET]]
+  * [[:en:pet|PET]]</font>
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-id|d43-id repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
+Semua teks Door43 dalam bahasa Indonesia dapat diunduh di [[https://github.com/Door43/d43-id|d43-id repository]]. Untuk mengunduh dalam bentuk ZIP, men-klik [[https://github.com/Door43/d43-id/archive/master.zip|d43-id.zip]]
 
-**Recent Changes**
+**Perubahan terbaru**
 
 {{changes>ns = id}}
 
@@ -32,6 +32,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 {{page>en:uwadmin:id:obs:status}}
 
-**Language Information**
+**Informasi tentang bahasa Indonesia**
 
 [[http://www.ethnologue.com/language/id|Ethnologue data]]
