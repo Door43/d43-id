@@ -21,7 +21,7 @@
 | **[[:id:tsi:info|INFO]]** | **[[:id:tsi:41mattsi.usfm|MAT]]** | **[[:id:tsi:42mrktsi.usfm|MRK]]** | **[[:id:tsi:43luktsi.usfm|LUK]]** |
 | **[[:id:tsi:44jhntsi.usfm|YOH]]** | **[[:id:tsi:45acttsi.usfm|KIS]]** | **[[:id:tsi:46romtsi.usfm|ROM]]** | **[[:id:tsi:471cotsi.usfm|1KOR]]** |
 | **[[:id:tsi:482cotsi.usfm|2KOR]]** | **[[:id:tsi:49galtsi.usfm|GAL]]** | **[[:id:tsi:50ephtsi.usfm|EF]]** | **[[:id:tsi:51phptsi.usfm|FLP]]** |
-| **[[:id:tsi:52coltsi.usfm|KOL]]** | **[[:id:tsi:531tstsi.usfm|1TES]]** | **[[:id:tsi:542thtsi.usfm|2TES]]** | **[[:id:tsi:551titsi.usfm|1TIM]]** |
+| **[[:id:tsi:52coltsi.usfm|KOL]]** | **[[:id:tsi:531thtsi.usfm|1TES]]** | **[[:id:tsi:542thtsi.usfm|2TES]]** | **[[:id:tsi:551titsi.usfm|1TIM]]** |
 | **[[:id:tsi:562titsi.usfm|2TIM]]** | **[[:id:tsi:57tittsi.usfm|TIT]]** | **[[:id:tsi:58phmtsi.usfm|FLM]]** | **[[:id:tsi:59hebtsi.usfm|IBR]]** |
 | **[[:id:tsi:60jastsi.usfm|YAK]]** | **[[:id:tsi:611petsi.usfm|1PTR]]** | **[[:id:tsi:622petsi.usfm|2PTR]]** | **[[:id:tsi:631jntsi.usfm|1YOH]]** |
 | **[[:id:tsi:642jntsi.usfm|2YOH]]** | **[[:id:tsi:653jntsi.usfm|3YOH]]** | **[[:id:tsi:66judtsi.usfm|YUD]]**  | **[[:id:tsi:67revtsi.usfm|WHY]]** |
