@@ -1,7 +1,7 @@
-====== Open Bible Stories | Cerita Alkitab yang Bebas Dipakai  (CAYBD) ======
+====== Open Bible Stories | Cerita-cerita Alkitab yang Bebas Dipakai  (CAYBD) ======
 
 
-Selamat datang di Open Bible Stories (Cerita Alkitab yang Bebas Dipakai)! Silahkan menerjemahkan halaman ini dan cerita-cerita (termasuk judulnya) di bawah. Jika memerlukan bantuan, [[/contact|silahkan bertanya!]]
+Selamat datang ke halaman CAYBD! Silahkan menerjemahkan halaman ini dan cerita-cerita (termasuk judulnya) di bawah. Jika memerlukan bantuan, [[/contact|silahkan bertanya!]]
 
 
 {{page>id:obs:stories}}
