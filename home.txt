@@ -9,9 +9,9 @@ PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
 ----
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan yang lain, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan lebih dari satu organisasi, termasuk Door43, Wycliffe, Pioneer Bible Translators, Kartidaya, dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai (id)</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai (CAYBD)</font>
 
-Untuk melihat daftar semua Cerita Alkitab yang bebas dipakai (tidak terkurung dengan copyright) men-klik [[:id:obs]].
+Untuk melihat daftar semua Cerita Alkitab yang Bebas Dipakai (tidak terkurung dengan copyright) men-klik [[:id:obs]].
 Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help]]. 
 
 Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Terjemahan Sederhana Indonesia. Kalau Anda ingin tergabung dengan Tim BahasaKita— baik secara informal atau sebagai anggota tim, silakan hubungi tim.kita@bahasakita.net.
