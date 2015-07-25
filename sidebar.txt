@@ -2,7 +2,7 @@
 
 ----
 
-<font 16px/lucida sans unicode,lucida grande,sans-serif>**[[:id:home|Door43 (id)]]**</font>
+<font 16px/lucida sans unicode,lucida grande,sans-serif>**[[:id:home|Door43 Halaman Dasar (id)]]**</font>
 
 <font 16px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>Cerita-cerita Alkitab yang Bebas Dipakai
 
