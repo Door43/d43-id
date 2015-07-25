@@ -6,7 +6,7 @@
 
    * [[:id:home|Door43 (id)]]
 
-  * <font 16px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>Cerita-cerita Alkitab yang terbuka (id)</font>
+  * <font 16px/lucida sans unicode,lucida grande,sans-serif;;#008080;;inherit>[[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]</font>
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;#0000CD;;inherit>Terjemahan Sederhana Indonesia</font>
 
