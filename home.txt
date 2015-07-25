@@ -13,7 +13,6 @@ Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab,
 
 Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyright/aturan hak cipta. Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help]]. 
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif> *  [[:id:obs|CAYBD]]</font>
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia    ([[:id:tsi|TSI]])</font>
 
 Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
