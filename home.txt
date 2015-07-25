@@ -9,19 +9,19 @@ PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
 ----
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan yang lain, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan lebih dari satu organisasi, termasuk Door43, Wycliffe, Pioneer Bible Translators, Kartidaya, dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|__CAYBD__]])</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|CAYBD]])</font>
 
 Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyright/aturan hak cipta. Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help]]. 
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia    ([[:id:tsi|__TSI__]])</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia    ([[:id:tsi|TSI]])</font>
 
 Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur  ([[:id:tsit|__TSIT__]])</font> 
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur  ([[:id:tsit|TSIT]])</font> 
 
 [[:id:tsit|TSIT]] adalah hampir sama dengan TSI, tetapi lebih sederhana lagi. Terjemahan ini disediakan sebagai contoh untuk menolong para penerjemah Alkitab di mana bahasa suku tidak menggunakan bentuk pasif dan beberapa istilah Alkitab tidak dikenal.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(128, 0, 128);;inherit>Plain English Translation  ([[:en:pet|__PET__]])</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(128, 0, 128);;inherit>Plain English Translation  ([[:en:pet|PET]])</font>
 
 [[:en:pet|PET]] berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
 
