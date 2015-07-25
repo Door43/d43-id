@@ -7,7 +7,7 @@ PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
 [[id:legal:license]]\\
 [[id:translation-guidelines]]
 ----
-Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan lebih dari satu organisasi, termasuk Door43, Wycliffe, Pioneer Bible Translators, Kartidaya, dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
+Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan Door43, Wycliffe, Pioneer Bible Translators, Kartidaya, dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|CAYBD]])</font>
 
