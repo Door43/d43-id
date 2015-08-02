@@ -14,12 +14,6 @@ Berdasarkan ketentuan berikut:
 
   * Berbagi Serupa - Apabila Anda menggubah, mengubah atau membuat turunan dari materi ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan karya asli
 
-===== Atribusi para Kontributor Door43 ====
-
-Ketika mengimpor suatu karya (sebagai contoh. kitab, bahan pendalaman atau studi Alkitab) ke Door43, karya asli harus mencantumkan tautan seperti yang telah ditentukan pada open license atau lisensi terbuka di mana karya yang dimaksud teredia.  Sebagai contoh, karya gambar yang digunakan pada Cerita Alkitab Terbuka tersedia dibawah suatu perijinan terbuka dan secara jelas diatribusi pada [[:obs|main page]] proyek yang dimaksud.
-
-Para kontributor pada proyek-proyek di Door43 sepakat bahwa **atribusi atau pencantuman nama yang terjadi secara otomatis pada riwayat revisi pada setiap laman dianggap cukup sebagai atribusi atau pencantuman nama terhadap karya mereka.** Yaitu, setiap kontributor pada penerjemahan Cerita Alkitab Terbuka ke dalam bahasa lain terdaftar sebagai”Komunitas Misi Dunia Door43” atau sesuatu yang senada.  Kontribusi individual dari setiap kontributor perorangan tersimpan pada riwayat revisi.
-
 
 ===== Atribusi para Kontributor Door43 ====
 
