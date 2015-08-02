@@ -21,10 +21,8 @@ Ketika mengimpor suatu karya (sebagai contoh. kitab, bahan pendalaman atau studi
 Para kontributor pada proyek-proyek di Door43 sepakat bahwa **atribusi atau pencantuman nama yang terjadi secara otomatis pada riwayat revisi pada setiap laman dianggap cukup sebagai atribusi atau pencantuman nama terhadap karya mereka.** Yaitu, setiap kontributor pada penerjemahan Cerita Alkitab Terbuka ke dalam bahasa lain terdaftar sebagai”Komunitas Misi Dunia Door43” atau sesuatu yang senada.  Kontribusi individual dari setiap kontributor perorangan tersimpan pada riwayat revisi.
 
 
-===== Attribution of Door43 Contributors =====
+===== Atribusi para Kontributor Door43 ====
 
+Ketika mengimpor suatu karya (sebagai contoh. kitab, bahan pendalaman atau studi Alkitab) ke Door43, karya asli harus mencantumkan tautan seperti yang telah ditentukan pada open license atau lisensi terbuka di mana karya yang dimaksud teredia.  Sebagai contoh, karya gambar yang digunakan pada Cerita Alkitab Terbuka tersedia dibawah suatu perijinan terbuka dan secara jelas diatribusi pada [[:obs|main page]] proyek yang dimaksud.
 
-When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[:en:obs|main page]].
-
-
-Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.**  That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
+Para kontributor pada proyek-proyek di Door43 sepakat bahwa **atribusi atau pencantuman nama yang terjadi secara otomatis pada riwayat revisi pada setiap laman dianggap cukup sebagai atribusi atau pencantuman nama terhadap karya mereka.** Yaitu, setiap kontributor pada penerjemahan Cerita Alkitab Terbuka ke dalam bahasa lain terdaftar sebagai”Komunitas Misi Dunia Door43” atau sesuatu yang senada.  Kontribusi individual dari setiap kontributor perorangan tersimpan pada riwayat revisi.
