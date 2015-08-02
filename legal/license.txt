@@ -1,17 +1,24 @@
-====== Copyrights & Licensing ======
+====== Hak Cipta & Lisensi ======
 
 
-All content on Door43 is made available under a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], which means
+Seluruh konten pada Door43 tersedia di bawah http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], yang berarti:
 
-You are free:
+Anda diperbolehkan secara gratis untuk:
 
-  * Share — copy and redistribute the material in any medium or format
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+ * Berbagi - menyalin dan menyebarluaskan materi ini dalam bentuk atau format apapun
+ * Adaptasi- menggubah, mengubah atau membuat turunan dan mengembangkan materi dengan tujuan  dan kepentingan apapun, termasuk komersil.
 
-Under the following conditions:
+Berdasarkan ketentuan berikut:
 
-  * Attribution — You must attribute the work as follows: "Original work available at http://door43.org." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+ * Atribusi - Anda harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi dan menyatakan bahwa telah ada perubahan yang dilakukan mengatribusikan karya sebagai berikut: “Karya asli tersedia pada http://door.43.org.”: Pernyataan atribusi pada karya turunan atau derivatif dalam hal apapun namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda ataupun penggunaan Anda.
+
+  * Berbagi Serupa - Apabila Anda menggubah, mengubah atau membuat turunan dari materi ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan karya asli
+
+===== Atribusi para Kontributor Door43 ====
+
+Ketika mengimpor suatu karya (sebagai contoh. kitab, bahan pendalaman atau studi Alkitab) ke Door43, karya asli harus mencantumkan tautan seperti yang telah ditentukan pada open license atau lisensi terbuka di mana karya yang dimaksud teredia.  Sebagai contoh, karya gambar yang digunakan pada Cerita Alkitab Terbuka tersedia dibawah suatu perijinan terbuka dan secara jelas diatribusi pada [[:obs|main page]] proyek yang dimaksud.
+
+Para kontributor pada proyek-proyek di Door43 sepakat bahwa **atribusi atau pencantuman nama yang terjadi secara otomatis pada riwayat revisi pada setiap laman dianggap cukup sebagai atribusi atau pencantuman nama terhadap karya mereka.** Yaitu, setiap kontributor pada penerjemahan Cerita Alkitab Terbuka ke dalam bahasa lain terdaftar sebagai”Komunitas Misi Dunia Door43” atau sesuatu yang senada.  Kontribusi individual dari setiap kontributor perorangan tersimpan pada riwayat revisi.
 
 
 ===== Attribution of Door43 Contributors =====
