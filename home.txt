@@ -1,8 +1,5 @@
 ====== Door43: Halaman Dasar untuk Bahasa Indonesia (id) ======
 
-==== Links to pages to be translated ====
-PLEASE REMOVE THIS SECTION WHEN DONE TRANSLATING THESE PAGES
-
 [[id:ta]]\\
 [[id:legal:license]]\\
 [[id:translation-guidelines]]
