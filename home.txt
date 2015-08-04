@@ -1,6 +1,6 @@
 ====== Door43: Halaman Dasar untuk Bahasa Indonesia (id) ======
 
-[[id:Lokakarya Terjemahan]]\\
+[[id:Lokakarya Penerjemahan]]\\
 [[id:legal:license]]\\
 [[id:translation-guidelines]]
 ----
