@@ -1,12 +1,12 @@
-====== Selamat Bergabung pada Lokakarya Penerjemahan ======
+====== Selamat Bergabung pada Akademi Penerjemahan ======
 
-Tujuan “Lokakarya Penerjemahan” ini adalah untuk dapat melengkapi siapa saja, di manapun mereka berada, untuk belajar dasar-dasar bagaimana menerjemahkan Alkitab ke dalam bahasa daerah mereka sendiri, atau membantu orang yang ingin mengerjakan terjemahan.
+Tujuan “Akademi Penerjemahan” ini adalah untuk dapat melengkapi siapa saja, di manapun mereka berada, untuk belajar dasar-dasar bagaimana menerjemahkan Alkitab ke dalam bahasa daerah mereka sendiri, atau membantu orang yang ingin mengerjakan terjemahan.
 
-Lokakarya ini sangat fleksibel, dan dapat di atur untuk mengerjakannya sesuai dengan waktu kita sendiri. Format yang digunakan adalah modul, dengan bantuan visual dan tersedipun dengan pilihan video mobile secara online dan offline.
+Pelajaran dalam Akademi Penerjemahan ini sangat fleksibel, dan dapat di atur untuk mengerjakannya sesuai dengan waktu kita sendiri. Format yang digunakan adalah modul, dengan bantuan visual dan tersedipun dengan pilihan video mobile secara online dan offline.
 
-Bila anda baru bergabung, maka kami mendorong anda untuk selain 1) mengerjakan **[[:en:ta:intro:handbook|translationAcademy Handbook]]** yang akan memberikan anda pendahuluan pada proyek ini, 2) untuk membaca [[:en:ta:intro|Introduction]], maupun garis besar tiga panduan yang terdapat dalam Lokakarya Penerjemahan ini.
+Bila anda baru bergabung, maka kami mendorong anda untuk selain 1) mengerjakan **[[:en:ta:intro:handbook|translationAcademy Handbook]]** yang akan memberikan anda pendahuluan pada proyek ini, 2) untuk membaca [[:en:ta:intro|Introduction]], maupun garis besar tiga panduan yang terdapat dalam Akademi Penerjemahan ini.
 
-Yang pertama,* **[[:en:ta:translate:home|Translation Manual]]**- memberikan penjelaskan bagaimana menerjemahkan, yang kedua * **[[:en:ta:check|Checking Manual]]**- menjelaskan bagaimana dapat memeriksa hasil terjemahan dan yang ketiga, * **[[:en:ta:tech|Technology Manual]]**- menjelaskan bagaimana menggunakan berbagai bantuan perangkap/peralatan teknologi.
+Yang pertama,* **[[:en:ta:translate:home|Translation Manual]] **-(atau Panduan Penerjemahan) memberikan penjelaskan bagaimana menerjemahkan, yang kedua * **[[:en:ta:check|Checking Manual]]**- (atau Panduan Pemeriksaan) menjelaskan bagaimana dapat memeriksa hasil terjemahan dan yang ketiga, * **[[:en:ta:tech|Technology Manual]]**- (atau Panduan Teknologi) menjelaskan bagaimana menggunakan berbagai bantuan perangkap/peralatan teknologi.
 
 ====Tempat Kerja Lokakarya Penerjemahan ====
 
