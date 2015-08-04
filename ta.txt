@@ -1,3 +1,28 @@
+====== Selamat Bergabung pada Lokakarya Penerjemahan ======
+
+Tujuan “Lokakarya Penerjemahan” ini adalah untuk dapat melengkapi siapa saja, di manapun mereka berada, untuk belajar dasar-dasar bagaimana menerjemahkan Alkitab ke dalam bahasa daerah mereka sendiri, atau membantu orang yang ingin mengerjakan terjemahan.
+
+Lokakarya ini sangat fleksibel, dan dapat di atur untuk mengerjakannya sesuai dengan waktu kita sendiri.  Format yang digunakan adalah modul, dengan bantuan visual dan tersedipun dengan pilihan video mobile secara online dan offline.
+
+Bila anda baru bergabung, maka kami mendorong anda untuk selain 1) mengerjakan **[[:en:ta:intro:handbook|translationAcademy Handbook]]** yang akan memberikan anda pendahuluan pada proyek ini, 2) untuk membaca [[:en:ta:intro|Introduction]], maupun garis besar tiga panduan yang terdapat dalam Lokakarya Penerjemahan ini.
+
+Yang pertama,* **[[:en:ta:translate:home|Translation Manual]]**-  memberikan penjelaskan bagaimana menerjemahkan, yang kedua * **[[:en:ta:check|Checking Manual]]**- menjelaskan bagaimana dapat memeriksa hasil terjemahan dan yang ketiga, * **[[:en:ta:tech|Technology Manual]]**- menjelaskan bagaimana menggunakan berbagai perangkap/peralatan teknologi.
+
+====Tempat Kerja Lokakarya Penerjemahan ====
+
+Kami butuhkan “Domain Experts” untuk dapat mulai mengenali modul-modul yang dibutuhkan pada setiap  matabidang fokus, serta untukto start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
+
+Sudahkah Anda siap untuk memulai?
+
+* Bukalah laman [[:en:ta:workbench|translationAcademy Workbench]] untuk mengetahui status bahan/materi yang ingin anda kerjakan.\\
+Untuk menambahkan informasi anda, * bukalah lamanan [[:en:ta:workbench:how-to-use|How to Add My Information]].
+
+Bila anda baru bergabung pada Lokakarya Penerjemahan, sebaiknya anda mempelajari dasar-dasar penerjemahan, pengecekan/pemeriksaan bahan yang telah diterjemahkan dan lain-lain! (Lihat di bawah ini.)
+
+==========
+
+{{page>en:ta:intro:handbook}}
+
 ====== Welcome to the Translation Academy ======
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
@@ -7,6 +32,7 @@ If you are new to the project, we strongly encourage you to work through the **[
   * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
   * **[[:en:ta:check|Checking Manual]]**- explains how to check a translation
   * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
+
 ==== translationAcademy Workbench ====
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
