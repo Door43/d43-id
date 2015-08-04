@@ -1,10 +1,10 @@
-====== Selamat, Anda telah bergabung dengan Akademi Penerjemahan ======
+====== Selamat Bergabung Pada Lokakarya Penerjemahan ======
 
-Tujuan “Akademi Penerjemahan” adalah untuk melengkapi orang-orang di manapun mereka berada, yang ingin belajar dasar-dasar menerjemahkan Alkitab ke dalam bahasa daerah mereka sendiri, atau membantu orang yang ingin mengerjakan terjemahan.
+Tujuan “Lakakarya Penerjemahan” adalah untuk melengkapi orang-orang di manapun mereka berada, yang ingin belajar dasar-dasar menerjemahkan Alkitab ke dalam bahasa daerah mereka sendiri, atau membantu orang yang ingin mengerjakan terjemahan.
 
-Pelajaran dalam Akademi Penerjemahan ini sengaja dirancang agar dapat dikerjakan kapan saja dan di mana saja, sesuai dengan waktu masing-masing peserta. Format yang digunakan adalah modul, dengan bantuan visual dengan pilihan video mobile secara online dan offline.
+Pelajaran dalam Lokakarya Penerjemahan ini sengaja dirancang agar dapat dikerjakan kapan saja dan di mana saja, sesuai dengan waktu masing-masing peserta. Format yang digunakan adalah modul, dengan bantuan visual, dan pilihan video mobile secara online dan yang bisa diunduh untuk dilihat offline.
 
-Bila anda baru bergabung, maka kami mendorong anda untuk selain 1) mengerjakan **[[:en:ta:intro:handbook|translationAcademy Handbook]]** yang akan membantu anda untuk lebih mengenali proyek ini, 2) untuk membaca [[:en:ta:intro|Introduction]], maupun garis besar tiga panduan yang terdapat dalam Akademi Penerjemahan ini.
+Bila anda baru bergabung, maka kami mendorong anda untuk selain 1) mengerjakan **[[:en:ta:intro:handbook|translationAcademy Handbook]]** yang akan membantu anda untuk lebih mengenali proyek ini, 2) untuk membaca [[:en:ta:intro|Introduction]], maupun garis besar tiga panduan yang terdapat dalam Lokakarya Penerjemahan ini.
 
 Yang pertama,* **[[:en:ta:translate:home|Translation Manual]] **-(atau Panduan Penerjemahan) memberikan penjelaskan bagaimana menerjemahkan, yang kedua * **[[:en:ta:check|Checking Manual]]**- (atau Panduan Pemeriksaan) menjelaskan bagaimana dapat memeriksa hasil terjemahan dan yang ketiga, * **[[:en:ta:tech|Technology Manual]]**- (atau Panduan Teknologi) menjelaskan bagaimana menggunakan berbagai bantuan perangkap/peralatan teknologi.
 
