@@ -1,8 +1,9 @@
 ====== Door43: Halaman Dasar untuk Bahasa Indonesia (id) ======
 
+[[id:translation-guidelines]]\\
 [[id:Lokakarya Penerjemahan]]\\
-[[id:legal:license]]\\
-[[id:translation-guidelines]]
+[[id:legal:license]]
+
 ----
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan Door43, Wycliffe, Pioneer Bible Translators, [[https://en.wikipedia.org/wiki/Kartidaya|Kartidaya]], dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
 
