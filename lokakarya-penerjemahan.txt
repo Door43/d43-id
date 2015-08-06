@@ -16,7 +16,7 @@ Kami butuhkan “Pakar Domain” untuk dapat mulai membuat modul-modul yang dibu
 Sudahkah Anda siap untuk memulai?
 
 * Bukalah halaman [[:en:ta:workbench|translation Academy Workbench]] untuk mengetahui status bahan/materi yang ingin anda kerjakan.\\
-Untuk menambahkan informasi anda, * bukalah halamanan [[:en:ta:workbench:how-to-use|How to Add My Information]].
+Untuk menambahkan informasi anda, * bukalah halaman [[:en:ta:workbench:how-to-use|How to Add My Information]].
 
 Bila anda baru bergabung pada Lokakarya Penerjemahan, dan secara sekilas ingin mengenali dasar-dasar penerjemahan, pengecekan/pemeriksaan bahan yang telah diterjemahkan dan lain-lain! (Lihat di bawah ini.)
 
