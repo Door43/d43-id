@@ -1,33 +1,31 @@
 ====== Door43: Halaman Dasar untuk Bahasa Indonesia (id) ======
 
-[[id:translation-guidelines]]\\
-[[id:Lokakarya Penerjemahan]]\\
-[[id:legal:license]]
+[[:id:translation-guidelines|Panduan Penerjemahan]]\\
+[[:id:lokakarya-penerjemahan|Lokakarya Penerjemahan]]\\
+[[:id:legal:license|Hak Cipta & Lisensi]]
 
 ----
-Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan Door43, Wycliffe, Pioneer Bible Translators, [[https://en.wikipedia.org/wiki/Kartidaya|Kartidaya]], dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]). 
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|CAYBD]])</font>
+Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan Door43, Wycliffe, Pioneer Bible Translators, [[https://en.wikipedia.org/wiki/Kartidaya|Kartidaya]], dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]).
 
-Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyright/aturan hak cipta. Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help]]. 
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai (CAYBD]])</font>
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia    ([[:id:tsi|TSI]])</font>
+Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyright/aturan hak cipta. Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help|Open Bible Stories - Help]].
 
-Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia  (TSI]])</font>
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur  ([[:id:tsit|TSIT]])</font> 
+Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada semua perangkap smart device, termasuk segala macam HP, tablet, dan komputer.
+
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur (TSIT]])</font>
 
 [[:id:tsit|TSIT]] adalah hampir sama dengan TSI, tetapi lebih sederhana lagi. Terjemahan ini disediakan sebagai contoh untuk menolong para penerjemah Alkitab di mana bahasa suku tidak menggunakan bentuk pasif dan beberapa istilah Alkitab tidak dikenal.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(128, 0, 128);;inherit>Plain English Translation  ([[:en:pet|PET]])</font>
+<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(128, 0, 128);;inherit>Plain English Translation (PET]])</font>
 
 [[:en:pet|PET]] berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
 
 Catatan: Perjanjian Baru TSI sudah dikerjakan melalui kerjasama dengan Door43.org. Edisi Pertama PB TSI diterbitkan oleh Andi Offset. File-file di Door43 sekarang sudah diubah sesuai Edisi Kedua, yang akan diterbitkan tahun 2015. Lihat informasi selanjutnya di [[http://albata.info|http://albata.info]].
 
+**Dalam Proses** Terjemahan Literal dari bahasa Ibrani, dikerjakan oleh Rasmalem Raya Sembiring.
 
-
-**Dalam Proses**
-Terjemahan Literal dari bahasa Ibrani, dikerjakan oleh Rasmalem Raya Sembiring.
-
-  * [[:id:TLBI|TLBI]]
+   * [[:id:tlbi|TLBI]]
