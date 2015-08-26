@@ -14,7 +14,7 @@ Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyr
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia  (TSI]])</font>
 
-Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada semua perangkap smart device, termasuk segala macam HP, tablet, dan komputer.
+Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
 <font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur (TSIT]])</font>
 
