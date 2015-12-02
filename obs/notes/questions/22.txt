@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **How many years had passed since God had spoken to his people?**
-    *//400 years. [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-    *//She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-    *//He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-    *//John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-    *//They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-    *//Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-    *//Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-    *//She would become pregnant and give birth to a son. [22-04]//
-  - **Who did the angel say Jesus was going to be?**
-    *//The Son of the Most High God. [22-04]//
-  - **Why was Jesus’ birth a miracle?**
-    *//Mary was a virgin. [22-05]//
-  - **Whose son is Jesus?**
-    *//Jesus is the Son of God. [22-05]//
-  - **Who did Mary go to visit after after the angel left her?**
-    *//She went to visit Elizabeth. [22-06]//
-  - **What did Zechariah say about John?**
-    *//John would be a prophet of the Most High God and would tell the people how they could receive forgiveness for their sins. [22-07]//
-
+  - **Berapa tahun telah berlalu sejak Allah berbicara kepada umat-Nya?**
+      * //400 tahun. [22-01]//
+  - **Apa masalah yang dimiliki Elisabet, istri Zakharia?**
+      * //Dia tidak bisa memiliki anak. [22-01]//
+  - **Apa yang malaikat beritahu Zakharia untuk menamai anaknya?**
+      * //Dia harus menamainya Yohanes. [22-02]//
+  - **Apa yang malaikat katakan mengenai Yohanes akan lakukan dalam hidupnya?**
+      * //Yohanes akan mempersiapkan umat-Nya bagi Sang Mesias. [22-02]//
+  - **Mengapa Zakharia tidak percaya Elisabet akan memiliki seorang anak laki-laki?**
+      * //Mereka terlalu tua. [22-02]//
+  - **Bagaimana malaikat menghukum Zakharia karena ia tidak percaya?**
+      * //Zakharia tidak dapat berbicara sampai Yohanes lahir. [22-03]//
+  - **Berapa lama Elisabet telah hamil ketika malaikat muncul kepada Maria?**
+      * //Enam bulan. [22-04]//
+  - **Apa yang malaikat katakan akan terjadi pada Maria?**
+      * //Ia akan menjadi hamil dan melahirkan seorang anak laki-laki. [22-04]//
+  - **Siapa yang malaikat katakan Yesus akan menjadi apa?**
+      * //Anak Allah Yang Maha Tinggi. [22-04]//
+  - **Mengapa kelahiran Yesus adalah sebuah keajaiban?**
+      * //Maria adalah seorang perawan. [22-05]//
+  - **Anak siapakah Yesus itu?**
+      * //Yesus adalah Anak Allah. [22-05]//
+  - **Siapa yang Maria pergi mengunjungi setelah malaikat meninggalkannya?**
+      * //Ia pergi mengunjungi Elisabet. [22-06]//
+  - **Apa yang Zakharia katakan mengenai Yohanes?**
+      * //Yohanes akan menjadi seorang nabi dari Allah Yang Maha Tinggi dan akan memberitahu orang-orang bagaimana mereka bisa menerima pengampunan atas dosa-dosa mereka. [22-07]//
 
 **[[en/obs/notes/questions/21|<<  ]] | [[en/obs/notes/questions/23| >>]]**

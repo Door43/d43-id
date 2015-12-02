@@ -2,31 +2,29 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **How does a mustard seed compare to other seeds?**
-    *//It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-    *//It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-    *//It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-    *//He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-    *//He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-    *//People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-    *//He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-    *//He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-    *//He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-    *//The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-    *//He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-    *//He will lift them up. [34-10]//
-
+  - **Bagaimana biji sesawi dibandingkan dengan benih lainnya?**
+      * //Itu adalah benih terkecil dari semua. [34-01]//
+  - **Apa yang terjadi pada biji sesawi ketika itu tumbuh?**
+      * //Itu menjadi yang terbesar dari semua tanaman di kebun. [34-02]//
+  - **Apa yang terjadi pada ragi bila dicampur ke dalam adonan roti?**
+      * //Ragi menyebar ke seluruh adonan. [34-03]//
+  - **Apa yang orang itu lakukan setelah ia menemukan harta karun yang tersembunyi di ladang?**
+      * //Dia menjual semua yang ia miliki dan menggunakan uang itu untuk membelinya. [34-04]//
+  - **Apa yang pedagang mutiara lakukan ketika ia menemukan mutiara yang sempurna?**
+      * //Dia menjual semua yang ia miliki dan menggunakan uang itu untuk membelinya. [34-05]//
+  - **Kepada siapakah Yesus menceritakan kisah dua orang berdoa di bait Allah?**
+      * //Orang-orang yang percaya pada perbuatan baik mereka sendiri dan memandang rendah orang lain. [34-06]//
+  - **Mengapa pemimpin agama bersyukur kepada Allah?**
+      * //Ia bersyukur kepada Allah bahwa ia bukan orang berdosa seperti orang lain. [34-07]//
+  - **Mengapa pemimpin agama pikir dia adalah orang yang benar?**
+      * //Dia berpuasa dua kali setiap minggu dan memberikan sepuluh persen dari uang dan barang nya. [34-08]//
+  - **Apa permintaan pemungut cukai dari Allah?**
+      * //Ia meminta Allah untuk berbelas kasihan kepadanya karena ia adalah orang berdosa. [34-09]//
+  - **Manakah orang yang Allah menyatakan menjadi orang yang benar?**
+      * //Pemungut cukai. [34-10]//
+  - **Apa yang akan Allah lakukan kepada semua orang yang sombong?**
+      * //Ia akan merendahkan mereka. [34-01]//
+  - **Apa yang akan Allah lakukan kepada semua orang yang rendah hati?**
+      * //Ia akan mengangkat mereka. [34-10]//
 
 **[[en/obs/notes/questions/33|<< ]] | [[en/obs/notes/questions/35| >>]]**

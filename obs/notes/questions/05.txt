@@ -2,36 +2,35 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why did Sarai think she would not have children?**
-    *//She was too old. [05-01]//
-  - **What did Sarai tell Abram to do in order to have a child?**
-    *//Marry her servant Hagar, so Hagar could have a child for her. [05-01]//
-  - **What was the name of Hagar's child?**
-    *//Ishmael. [05-02]//
-  - **What problem happened between Sarai and Hagar?**
-    *//Sarai became jealous of Hagar. [05-02]//
-  - **What covenant promises did God make to Abram?**
-    *//Abram would be the father of many nations, and God would give the land of Canaan to him and to his descendants. [05-03]//
-  - **What did God tell Abram to do as a sign of the covenant between them?**
-    *//Circumcise every male in his family. [05-03]//
-  - **Who did God say would be the son of the promise?**
-    *//Isaac, Sarai's son. [05-04]//
-  - **Who did God say would become a great nation?**
-    *//Both Isaac and Ishmael. [05-04]//
-  - **What did Abram's new name, Abraham, mean?**
-    *//Father of many. [05-04]//
-  - **What did God ask Abraham to do to Isaac when Isaac was a young man?**
-    *//God asked Abraham to sacrifice Isaac to him. [05-06]//
-  - **Why did God ask Abraham to sacrifice Isaac?**
-    *//To test Abraham's faith. [05-06]//
-  - **What did Abraham tell Isaac was the reason they did not have a lamb for the sacrifice?**
-    *//Abraham said God would provide the lamb for the sacrifice. [05-07]//
-  - **Did God want Abraham to kill Isaac?**
-    *//No. He only wanted to see if Abraham would obey him. [05-08]//
-  - **What did God provide as a sacrifice instead of Isaac?**
-    *//He provided a ram stuck in a bush. [05-09]//
-  - **What did God promise to do for Abraham because Abraham had obeyed him?**
-    *//He promised that Abraham's descendents would be more than the stars in the sky, and that all the families of the world would be blessed through his family. [05-10]//
-
+  - **Mengapa Sarai berpikir dia tidak akan punya anak?**
+      * //Dia sudah terlalu tua. [05-01]//
+  - **Apa yang Sarai minta Abram lakukan agar dapat memiliki anak?**
+      * //Menikahi hambanya Hagar, supaya Hagar bisa memiliki anak untuknya. [05-01]//
+  - **Apa nama anak Hagar?**
+      * //Ismail. [05-02]//
+  - **Masalah apa yang terjadi antara Sarai dan Hagar?**
+      * //Sarai menjadi cemburu pada Hagar. [05-02]//
+  - **Apa janji perjanjian yang Allah buat bagi Abram?**
+      * //Abram akan menjadi bapa banyak bangsa, dan Allah akan memberikan tanah Kanaan kepadanya dan keturunannya. [05-03]//
+  - **Apa yang Allah minta Abram lakukan sebagai tanda perjanjian antara mereka?**
+      * //Menyunat setiap laki-laki dalam keluarganya. [05-03]//
+  - **Siapa yang Allah katakan akan menjadi anak dari perjanjian?**
+      * //Ishak, anak Sarai. [05-04]//
+  - **Siapa yang Allah katakan akan menjadi bangsa yang besar?**
+      * //Baik Ishak maupun Ismael. [05-04]//
+  - **Apa arti nama baru Abram, yaitu Abraham?**
+      * //Bapa dari banyak. [05-04]//
+  - **Apa yang Allah minta Abraham lakukan pada Ishak ketika Ishak masih seorang muda?**
+      * //Allah meminta Abraham untuk mengorbankan Ishak kepadanya. [05-06]//
+  - **Mengapa Allah meminta Abraham mengorbankan Ishak?**
+      * //Untuk menguji iman Abraham. [05-06]//
+  - **Apa yang Abraham katakan pada Ishak yang merupakan alasan mereka tidak memiliki anak domba sebagai korban?**
+      * //Abraham mengatakan Allah akan memberikan anak domba sebagai korban. [05-07]//
+  - **Apakah Allah ingin Abraham membunuh Ishak?**
+      * //Tidak. Dia hanya ingin melihat apakah Abraham akan mematuhinya. [05-08]//
+  - **Apa yang Allah berikan sebagai korban dari pada Ishak?**
+      * //Ia menyediakan seekor domba jantan terjebak dalam semak-semak. [05-09]//
+  - **Apa yang Allah janji lakukan bagi Abraham karena Abraham telah mematuhinya?**
+      * //Ia berjanji bahwa keturunan Abraham akan lebih dari bintang-bintang di langit, dan bahwa semua keluarga di dunia akan diberkati melalui keluarganya. [05-10]//
 
 **[[en/obs/notes/questions/04|<< ]] | [[en/obs/notes/questions/06| >>]]**
