@@ -1,0 +1,35 @@
+\id FRT - Terjemahan Sederhana Indonesia NT -Indonesia 2014 (Web 2014)
+\rem ***************Title Page - i - ***************
+\mt1 Alktiab Perjanjian Baru dalam Terjemahan Sederhana Indonesia
+\mt2 The New Testament in the Plain Indonesian Translation
+\b
+\pc Pioneer Bible Translators
+\pc http://pioneerbible.org/
+\pb
+\rem *************** Verso Page - ii - ***************
+\s Alktiab Perjanjian Baru dalam Terjemahan Sederhana Indonesia
+\pc The New Testament in the Plain Indonesian Translation
+\pc [URY]
+\b
+\pc © 2014, Pioneer Bible Translators
+\b
+\pc Print publication 2014, by the Pioneer Bible Translators
+\b
+\pc Web version
+\pc 2014, Pioneer Bible Translators
+\pc http:// http://pioneerbible.org/
+\b
+\pc http://www.ScriptureEarth.org
+\b
+\m This translation is made available to you under the terms of the Creative Commons license (Attribution-Noncommercial-No Derivative Works).
+\m http://creativecommons.org/licenses/by-nc-nd/3.0
+\li \bd Your are free to share\bd* — to copy, distribute and transmit the text under the following conditions:
+\li \bd • Attribution.\bd* You must attribute the work to \it Pioneer Bible Translators \it* (but not in any way that suggests that they endorse you or your use of the work).
+\li \bd • Noncommercial.\bd* You may not use this work for commercial purposes.
+\li \bd • No Derivative Works.\bd* You may not alter, transform, or build upon this work.
+\li \bd • In addition,\bd* you have permission to port the text to different file formats, as long as you don’t change any of the text or punctuation of the Bible.
+\m \bd Notice\bd* — For any reuse or distribution, you must make clear to others the license terms of this work.
+\pb
+\rem ***************Table of Contents - iii-iv ***************
+\mt2 Table of Contents
+\pb
