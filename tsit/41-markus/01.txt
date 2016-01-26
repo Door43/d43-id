@@ -1,3 +1,4 @@
+<USFM>
 \c 1
 \s Yohanes Pembaptis siapkan umat Allah karena Yesus mau datang
 \r (Mat 3:1-12, Luk 3:1-18, Yoh 1:19-28)
@@ -75,3 +76,5 @@
 \v 44 “Jangan kasi tahu siapa-siapa tentang apa yang terjadi pada kamu. Sekarang pergi dulu kepada imam dan tunjukkan badan kamu kepadanya. Lalu kasi persembahan kepada Allah seperti Musa sudah perintah. Musa kasi perintah kepada semua orang yang sudah sembuh dari penyakit kulit.\f + \fr 1:44 \fk Musa sudah perintah \ft Pada Imamat 14:1-32, Musa ini tulis tentang orang yang sembuh dari penyakit. Orang itu harus bawa dua ekor burung yang hidup ke Rumah Allah. Lalu imam-imam di situ periksa badan orang itu. Kalau imam berkata bahwa orang itu sudah sembuh, lalu imam itu membuat upacara untuk bersihkan orang yang dulu sakit kulit. Imam itu potong satu ekor burung di atas piring yang penuh dengan air. Lalu dia kasi campur darah dari burung itu dengan air itu. Dan imam itu pakai alat seperti kuas untuk semprot air yang sudah campur dengan darah burung itu pada badan orang yang sudah sembuh. Mungkin imam bakar burung mati itu di atas mezbah Tuhan. Lalu imam kasi masuk burung yang hidup itu ke dalam air yang sudah campur darah burung. Lalu imam lepaskan burung yang hidup itu ke udara untuk terbang. Orang hanya bisa buat upacara seperti ini di Yerusalem saja. Jadi dalam cerita ini Yesus orang yang baru sembuh itu pergi ke Rumah Allah di Yerusalem untuk buat upacara itu.\f* Dengan begitu semua orang bisa tahu bahwa kamu betul-betul sudah sembuh.”
 \p
 \v 45 Lalu orang dulu sakit kulit itu pergi. Dan dia kasi tahu cerita itu kepada semua orang di mana-mana. Orang itu berkata, “Yesus sudah sembuhkan saya.” Jadi Yesus tidak mau lagi masuk secara terang-terang ke dalam kota-kota. Lalu Yesus dan murid-murid-Nya tinggal di luar kota saja di daerah-daerah yang sunyi. Tetapi orang-orang dari mana saja terus datang kepada Yesus.
+</USFM>
+
