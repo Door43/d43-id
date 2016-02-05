@@ -1,27 +1,37 @@
-====== Door43: Halaman Dasar untuk Bahasa Indonesia (id) ======
+===== Door43 (Indonesian (id)) =====
+
+Welcome to Door43, an openly-collaborative platform for creating, translating, and distributing open-licensed discipleship resources in any language.
+
+==== Resources ====
+
+These are the resources currently available for translation and use:
+
+  * **[[:id:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+  * [[:id:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
+  * [[:id:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+  * [[:id:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
+  * [[:id:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators. 
+
 
 [[:id:translation-guidelines|Panduan Penerjemahan]]\\
 [[:id:lokakarya-penerjemahan|Lokakarya Penerjemahan]]\\
 [[:id:legal:license|Hak Cipta & Lisensi]]
 
-----
-
 Halaman ini adalah tempat bekerjasama untuk menerjemahkan cerita-cerita Alkitab, bahan pemuridan Kristen, dan Terjemahan Sederhana Indonesia (TSI). Kerjasama ini melibatkan Door43, Wycliffe, Pioneer Bible Translators, [[https://en.wikipedia.org/wiki/Kartidaya|Kartidaya]], dan Yayasan Alkitab BahasaKita ([[http://albata.info|Albata]]).
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 128);;inherit>Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|CAYBD]])</font>
+Cerita-cerita Alkitab yang Bebas Dipakai ([[:id:obs|CAYBD]])
 
 Yang dimaksudkan dengan “Bebas Dipakai” adalah, tidak terkurung dengan copyright/aturan hak cipta. Untuk keterangan dan informasi dalam bahasa Inggris, men-klik [[:en:obs:help|Open Bible Stories - Help]].
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 0, 205);;inherit>Terjemahan Sederhana Indonesia  ([[:id:tsi|TSI]])</font>
+Terjemahan Sederhana Indonesia  ([[:id:tsi|TSI]])
 
 Lihat [[http://albata.info|http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(0, 128, 0);;inherit>Terjemahan Sederhana Indonesia Timur ([[:id:tsit|TSIT]])</font>
+Terjemahan Sederhana Indonesia Timur ([[:id:tsit|TSIT]])
 
 [[:id:tsit|TSIT]] adalah hampir sama dengan TSI, tetapi lebih sederhana lagi. Terjemahan ini disediakan sebagai contoh untuk menolong para penerjemah Alkitab di mana bahasa suku tidak menggunakan bentuk pasif dan beberapa istilah Alkitab tidak dikenal.
 
-<font 18px/lucida sans unicode,lucida grande,sans-serif;;rgb(128, 0, 128);;inherit>Plain English Translation ([[:en:pet|PET]])</font>
-
+Plain English Translation ([[:en:pet|PET]])
 [[:en:pet|PET]] berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
 
 Catatan: Perjanjian Baru TSI sudah dikerjakan melalui kerjasama dengan Door43.org. Edisi Pertama PB TSI diterbitkan oleh Andi Offset. File-file di Door43 sekarang sudah diubah sesuai Edisi Kedua, yang akan diterbitkan tahun 2015. Lihat informasi selanjutnya di [[http://albata.info|http://albata.info]].
@@ -29,3 +39,21 @@ Catatan: Perjanjian Baru TSI sudah dikerjakan melalui kerjasama dengan Door43.or
 **Dalam Proses** Terjemahan Literal dari bahasa Ibrani, dikerjakan oleh Rasmalem Raya Sembiring.
 
    * [[:id:tlbi|TLBI]]
+
+==== About Door43 ====
+
+  * **[[:id:get-started|How to Get Started]]** – Get started translating!
+  * **[[:id:ta:vol1:intro:statement_of_faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
+  * **[[:id:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
+  * **[[:id:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:id:technical|Technical Details]]** – The technology behind Door43.
+
+==== Extending Door43 ====
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+
+----
+
+//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
+
+
