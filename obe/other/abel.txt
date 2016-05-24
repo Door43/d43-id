@@ -1,18 +1,17 @@
 ====== Habel ======
 
-===== Facts: =====
+===== Fakta: =====
 
-Abel was Adam and Eve' second son.
+Habel adalah anak kedua Adam dan Hawa.
 
-    * Abel was a shepherd.
-    * Abel pleased God with his life and offerings.
-    * Adam and Eve's firstborn son Cain, murdered, Abel.
+  * Habel adalah seorang gembala.
+  * Habel menyenangkan Allah dengan kehidupan dan korban-korbannya.
+  * Anak sulung Adam dan Hawa yaitu Kain, membunuh Habel.
 
+(Saran terjemahan: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+(Lihat juga: [[:id:obe:other:adam|Adam]], [[:id:obe:other:eve|Eve]], [[:id:obe:other:shepherd|shepherd, to shepherd]])
 
-
-(See also: [[adam]], [[eve]], [[shepherd]])
 ===== Bible References: =====
 
 
