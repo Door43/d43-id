@@ -1,17 +1,17 @@
 ====== Harun ======
 
-===== Facts: =====
+===== Fakta: =====
 
-God chose Aaron to be the first high priest for the people of Israel.
+Allah memilih Harus untuk menjadi imam besar pertama bagi umat Israel.
 
-  * Aaron was Moses' older brother.
-  * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  * God also appointed Aaron and his descendants to be the priests for the people of Israel.
+  * Harun adalah saudara tua laki-laki Musa.
+  * Harun membantu Musa berbicara kepada Firaun mengenai membebaskan orang Israel.
+  * Sementara orang Israel menempuh perjalanan melewati padang gurun, Harun berdosa dengan membuat berhala untuk disembah umat.
+  * Allah juga menunjuk Harus dan keturunannya untuk menjadi imam-imam bagi umat Israel.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Saran Terjemahan: [[en:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:kt:priest]], [[moses]], [[israel]])
+(Lihat juga: [[en:obe:kt:priest]], [[moses]], [[israel]])
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
