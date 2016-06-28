@@ -2,16 +2,17 @@
 
 ===== Fakta: =====
 
-Allah memilih Harus untuk menjadi imam besar pertama bagi umat Israel.
+Allah memilih Harun untuk menjadi imam besar pertama bagi umat Israel.
 
-  * Harun adalah saudara tua laki-laki Musa.
+  * Harun adalah saudara laki-laki yang lebih tua Musa.
   * Harun membantu Musa berbicara kepada Firaun mengenai membebaskan orang Israel.
   * Sementara orang Israel menempuh perjalanan melewati padang gurun, Harun berdosa dengan membuat berhala untuk disembah umat.
-  * Allah juga menunjuk Harus dan keturunannya untuk menjadi imam-imam bagi umat Israel.
+  * Allah juga menunjuk Harun dan keturunannya untuk menjadi imam-imam bagi umat Israel.
 
-(Saran Terjemahan: [[en:ta:vol1:translate:translate_names]])
+(Saran Terjemahan: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Lihat juga: [[en:obe:kt:priest]], [[moses]], [[israel]])
+(Lihat juga: [[:en:obe:kt:priest|priest, priesthood]], [[:id:obe:other:moses|Musa]], [[:id:obe:other:israel|Israel, Israelites, nation of Israel]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
